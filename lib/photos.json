@@ -1,0 +1,1026 @@
+{
+ "guruji-smile": {
+  "src": "/images/guruji-smile.webp",
+  "w": 1080,
+  "h": 1350,
+  "cat": "guru",
+  "alt": "Pujya Guruji smiling in the temple garden",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoR4GBeZrnKp1Zxc2/HngAD4659L5OG6WLG57KFD0gba/q1lScx9EahK1z74hYzgRjlnBucDozgN1vZeqJB90/MWWGFlnM97wyS9jIFS97417MaVdTMB43ge/DA9p2SwQrpm2gAA"
+ },
+ "guruji-gurumaa-ghat": {
+  "src": "/images/guruji-gurumaa-ghat.webp",
+  "w": 1080,
+  "h": 1350,
+  "cat": "guru",
+  "alt": "Pujya Guruji and Guru Maa seated at the ghat",
+  "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbAC7MoADCmOIvl5GurnnKd5yAAD92zYxWV/Rzom7Ah6C+rKI5Ac54dcQdYF03DPcnqoWD4SKV+e14EmyfQQQNJBLpZYywGlNLPetRBfBAa0cdpXENy03UX5k/+waNZ994equNONz9JHSDmnQiCTOZ9DgJ+zuq/ROEIeWewA65eXAAAA="
+ },
+ "guruji-gurumaa-darbar": {
+  "src": "/images/guruji-gurumaa-darbar.webp",
+  "w": 1080,
+  "h": 1080,
+  "cat": "guru",
+  "alt": "Guruji and Guru Maa garlanded before the temple darbar",
+  "blur": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAAAQBgCdASoUABQAPu1sq1EppaOiqAqpMB2JaACdMoSCrfji2aDotLR4IaGuRmiBKrZH5m7aiOqwlgAA/jQ73euKzhZhFmUVLe+YL9V7OfG0YPEbYhgykWxBeQORJNrOJPt2NMDSFEv5pskc/P2Qmkx4p7SL2hQj+1IuwuUw0fOEJoRPx3U8vcT27Cax43+NrEn6Vgqk19Vbq6pZHnZgDoNj4QTnpA2jV8BwETIFFexgHCVyeBLDOjetQY+Ov8B/e1mWoGKkyMM9NTU1ScJcC/t67NvKSsfpmR2A15wicUgTi9+zxn6iEAAA"
+ },
+ "guruji-gurumaa-utsav": {
+  "src": "/images/guruji-gurumaa-utsav.webp",
+  "w": 1080,
+  "h": 1350,
+  "cat": "guru",
+  "alt": "Guruji and Guru Maa at an evening utsav",
+  "blur": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdH8ACrigR5Y2wuvgi2ByAAMxNUb4RhFEgEpBeBiPDF7st+muCpNzMtjAbITiRG0OkzDQpzcmGTfzWbnx3sT0GxXTronH0nVCPHdu63XTvqaC9JspwBqdd4tK/NoegDc64e92ianxk1oKRWTXm7s3u7uAxDjXWbhqUpt011FTcdm59esdIZN5eK+rOggD0XmFqwdGSR1HBP+P3PfBcuMfUAAAA"
+ },
+ "guru-parivar": {
+  "src": "/images/guru-parivar.webp",
+  "w": 1600,
+  "h": 1068,
+  "cat": "guru",
+  "alt": "Guruji, Guru Maa and Swami ji before the Brahma darbar",
+  "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JQBdmUABiVf9KaKdsu1gq4XoAAP59G1QnZ4a2YpK2Lfw9bEBU8C15r33kfHFF1GF+wpD+ngLyMfdkKS/yJYKcVfNGbzVx/fUR2p+RU7MsEPO+Z+bxzXhtzkyz0f1MsAAAAA=="
+ },
+ "gurumaa-blessing": {
+  "src": "/images/gurumaa-blessing.webp",
+  "w": 899,
+  "h": 899,
+  "cat": "guru",
+  "alt": "Pujya Guru Maa smiling with blessings",
+  "blur": "data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAAAwBgCdASoUABQAPu1oqU+ppaOiKA1RMB2JbACdMoRwMK/2Z5IAAr9/BLBzzglQGTVVqdeckNsIxL/AAP7et4LTPaDTTuqtv29wy9rPZ/yiAqz8P4jbwVzV4PTKlGE2+WpUSK2aGBhxNCQbRfPuQY//hcPRKbvZg4aAQIkrJ6kfppPVeVSj/rIQbZrZlswblT1o6ROnYKSQOf8ESoBdjFAl768BFiBzrwEvUJd/FNntqob6pVzJKQVVxpeNWgs329U8Kzn9o42Af+enh49TPa6ckqCwUliW3ph8EAAA"
+ },
+ "guruji-gurumaa-garden": {
+  "src": "/images/guruji-gurumaa-garden.webp",
+  "w": 1080,
+  "h": 1350,
+  "cat": "guru",
+  "alt": "Guruji and Guru Maa garlanded in the ashram garden",
+  "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoMjbEopd5N8tHnOptVEAP7Ma31k7OqefZSU2r8J/8do9EPsAPQlYaKZvEG0gCvhfKnyDJxqkQOLwbLGu5x20UY38RRTcelrobUoiYOD2mGBe/IC+tcLCf6sXXqXcDOz7w3HJFpIhl34VmQgRe8QyHEZZ8H3HVYaloWI1hvuAAA="
+ },
+ "gurumaa-celebration": {
+  "src": "/images/gurumaa-celebration.webp",
+  "w": 1080,
+  "h": 1350,
+  "cat": "guru",
+  "alt": "Guru Maa during a birthday celebration",
+  "blur": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAABwBQCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdMoR3IsBbEG8wgY543cXFofEBquiJVe8AAPZBIsIEj1cx+25gr60Ci9nLQ8JuhtDANc1CozXDA0GdqhfSO8w60uDpAIuAfn9N1l4+FaIEubfen9EPjmVrgqTSDxOfAv9eeLczLwqTK8qEbN1lcmTqUGg6VzHlgtC7zZrSwUw52BIh+vusK/0ZxWZyx2KkXsMJ8SPpZC7vxKF7BqxND6tCvvEDbLWYeoyL8AA="
+ },
+ "tilak-ceremony": {
+  "src": "/images/tilak-ceremony.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "guru",
+  "alt": "Tilak ceremony with Guruji, Guru Maa and Swami ji",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoAlrg07foM1R/5BfAD+n7ctnKpkgH8a3Qq0L69zUFpSGZqfCwdi00yqUgUqwKz+jO7XkhqSN5C3jQ1hx1kLUs+zQDa11NaiTUTGQz4qmwNIfLuMTT/TBoFxbbmEjyfbnQaE1BEs7Qc8ExmwEenYDzgMrFEUploAAAA="
+ },
+ "satsang-darbar": {
+  "src": "/images/satsang-darbar.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "guru",
+  "alt": "Guruji, Swami ji and Guru Maa at satsang",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JagAARd36gfCcc0nAHdLAAP6rpINdqdnC5l6vzf+uJ2CIQac5ULVTZVclPsC0RlcWPaOUyJwrzn/UVA4YMKRspKnbRYfRl30FH7HvOBlEi3zEQ1QsTV77dIW4aVKo2hu5hlkIRskqUdkwLRNUjy0GwVxqcAAA"
+ },
+ "pravachan-stage": {
+  "src": "/images/pravachan-stage.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Guruji giving pravachan beside the flower-decked darbar",
+  "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JaACsAdwA+0Y/M77J6cl9gAD+vlX3ksgl4t5eWPepOIMLM4q+q4VoJC5fenULitnEiZoPbGIaAgRYoxnMLoKZxbt482hu97bQVHB98nJb0XkQBSmid8NPCtsET+IGM4n+rgOpWMeIIlkE88f/fv9kcB/6pO9WUUAAAA=="
+ },
+ "pravachan-1": {
+  "src": "/images/pravachan-1.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "guru",
+  "alt": "Guruji speaking during satsang",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JYwCdIICDL5SLiJcc8JAocDmAAP7s8MHL6GgJV+JCe455JLkTjzCTBTOKwC43Z2uV8UqF5TZMZBU8nVsuOWC0dgQQbFsr3t16pGfScE5fL33wum7o3hE97iaAjmm160Tz0Dg6lI8cHOASF2Bqgu3h5Rq/xjAA"
+ },
+ "pravachan-2": {
+  "src": "/images/pravachan-2.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "guru",
+  "alt": "Guruji guiding devotees during pravachan",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JZwAAYcDSKxfQcdf463KdAAD+o2QOZTPzup41NIWdG6AFfFBEfu6or/KVMCXmEE5EmuxfJOJ2zaYmcNzL4DpwWa9gAIvhSaT3jL71++dEYVpvfN/DKn9GLGMPQuUO1+nmAZvQYfmwAAAA"
+ },
+ "pravachan-blessing": {
+  "src": "/images/pravachan-blessing.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Guruji raising his hand in blessing",
+  "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JYwDCgBufAyyN6IDWAAD+Hzcj3Hlci2XYrBvLS4SnwOkNfbVwPO22cslfmQaSVAHSILf017BYoOeYa9Q5iHTHOxD7nwrl98DWWFVF9toRe6q9T+dKprWtnQkfqF8IAAA="
+ },
+ "pravachan-3": {
+  "src": "/images/pravachan-3.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Guruji during the evening satsang",
+  "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JYwDImBE2VWTdCk+wAP54ZHPUgYNEXF96KoxBB28uasMkrbff5QqZGfVoB6m8aamqk9zE9kKiguF59CMNZEAMn8nV9pXJXpDTbdiYHPZwJMUY5/fxh8axfBNmXNxixDuuCMwA"
+ },
+ "guruji-portrait": {
+  "src": "/images/guruji-portrait.webp",
+  "w": 884,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Pujya Guruji adorned with a flower garland",
+  "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACQBACdASoLABQAPu1iqU2ppaOiMAgBMB2JbACdB2pQQCUA8cOAB/ixF36EqgAA/bIltxw0GNlHtRU2oJ49MPCTG7YF0gzrfJdc3dF0cC7wBu3WePZARsV2TcINkyXL208A/xqNYjjZl4x3XWbJCbR/fAFaOnDybF5bpfRJYs9eQC/EPCIfTHav1K4D8WFxoAA="
+ },
+ "guruji-garland": {
+  "src": "/images/guruji-garland.webp",
+  "w": 1063,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Guruji with garlands and tilak on a festival day",
+  "blur": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwIsAAiDPwzWUMwNic3BCAAP6pW04XLka0M+tEQR11OUuWDI0RJeOXttm+P2TDhWsPWE3u83/srLhc+j1tkfo0ot9VP2rPrM1BYG9obbeTvjYDodCE8FzdI3/u9Tnekp6bUxFbcNJitTQvDCw5ZIY/GvsM8p2oNZ8l36f837/w27XRrl30dv9DfaAf+TkVdx+v2gH/jwgAAA=="
+ },
+ "gurumaa-aarti": {
+  "src": "/images/gurumaa-aarti.webp",
+  "w": 1071,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Guru Maa with the aarti thali",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdL1ABfJmXFhu5ily7N2GgAP5CefrbBJAWeLan14f9v9Lnve0WOlhBNUunaMXUpa+mXJPAb4tEXZzqk9WliEkgo7Mrzc6ZYK1vaa0jVJV/5f2E3rW3RFHfuGcafkoBLypK5rStaDzDPpa81hUcV2/9QAAA"
+ },
+ "gurumaa-dhyan": {
+  "src": "/images/gurumaa-dhyan.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Guru Maa in meditation",
+  "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoACs3EaOadmKU4e+gAA/vGAqR1VWS6Vtpp0aHboCqv3HdBgHjXbirR2V6bovhFrdf7q0N61T12ugtuhhRBMaJHdc1+vwZRKoF5nZBWPq/mnyhaQEnA+lR3P0r2c+MxMHwt1pX6aT0EL8PJ/qxAIJjvq3GASAAAA"
+ },
+ "guruji-ashirwad": {
+  "src": "/images/guruji-ashirwad.webp",
+  "w": 854,
+  "h": 1280,
+  "cat": "guru",
+  "alt": "Guruji giving ashirwad",
+  "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JZgCdMoRwFf/gODUG4rE9Al8Qt2AA/pGLrCnpboRax1X5MUuByKn7UhdryErp9G20mKYnV2CPXQ2aoFn35CrVgMcXBTTarNmD7Qw1kDl1UGJnFumsyGv4O2xvL9VD+En3XnUpfE6nMWyOlhp1jGxuk0AAAA=="
+ },
+ "guruji-shrine": {
+  "src": "/images/guruji-shrine.webp",
+  "w": 1600,
+  "h": 1200,
+  "cat": "guru",
+  "alt": "Guruji beside the temple murtis",
+  "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACQBACdASoUAA8APu1iqU2ppaOiMAgBMB2JbACsAdwA2RlXoUTcSujRrqhEbsAA/vMwRinbB0lQBQKCeGkk5FwLqBdjpk3qWkTCp3JiDB+OAtXqogNpMg8vsnpauxr8aCGlTeaziResb6REiirW/1lEefaFu3xOdog8vihn/h9BAt3lXa+aZrx8JFgv/NAKAKFbAIdw2IxcLX2PjbG5kmUGMi1WqAAA"
+ },
+ "brahma-white-murti": {
+  "src": "/images/brahma-white-murti.webp",
+  "w": 1600,
+  "h": 2400,
+  "cat": "deity",
+  "alt": "The four-faced marble murti of Lord Brahma",
+  "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoADQnWdNzY5UR8gAP6OEOsf94OBL8yb1Iow74qC1Bfo4xIuPfXzYrvm/2j5njiLoexqIVe4uT+af36Wfdw9hWHzAruhmyKu4kEt7wSB88djXudu0VAdmuCtogud6xxAIubdVL8ZRZCl87p0pOAAAA=="
+ },
+ "brahma-shringar": {
+  "src": "/images/brahma-shringar.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Lord Brahma in festival shringar",
+  "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoADQxHMAmnTpD/tQAD+wHzcuQZbmsW3sqpiUs7X/ua2uAu7zyTWs2CszqzoiU5Jw1PxulSEYMpoMyfY90ylwCmy8WvFMP4HQFJfPpV9ZuDs3dP8UmqLMkMkhGArEVHdF1bW5ivDXoasQAAA"
+ },
+ "brahma-trimurti-darbar": {
+  "src": "/images/brahma-trimurti-darbar.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Lord Brahma with Mother Saraswati and Mother Savitri in the sanctum",
+  "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoRwACxomNm/qQqywfxPAAD+8VNsumCFd5JrqSxKRj5q/y24WowajVB/9nud5lIhM3P1pG81PbZDxbmidhn2Bzj9g3v73yWxXTzTbHbf6bYe4WiIEho1P5AA"
+ },
+ "brahma-darbar-flowers": {
+  "src": "/images/brahma-darbar-flowers.webp",
+  "w": 1536,
+  "h": 1024,
+  "cat": "deity",
+  "alt": "The Brahma darbar decorated with flowers",
+  "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASoUAA0APu1iqk2ppaQiMAgBMB2JbACdMoRwACxo+vew/9ub/vuds7AA/vFTbLpghXeSa6kiWjeLX+lLil7FoZgWhh5Vtz/JCx5OkBxHPOfEub5fvVHkL82OrJ49rjHAXZ/C9FDWk0K6T+Ac7mapeAAA"
+ },
+ "brahma-golden": {
+  "src": "/images/brahma-golden.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Golden four-faced murti of Lord Brahma",
+  "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwACEXKAw+UotygAD+6PlEpP+aN0lWFEGVEiDQy0G/CMip2S6uTqLy1++2d211ASX+epyM+ouFQHWQhQwNBoUpkxgL/wdPo/lex11oiQXfkIjKZBiy2bf9TXiFTgJVAwGkcGNO5XmYhXk7M1gk357X6UdOdYWHb6XQ6uQAAAA="
+ },
+ "brahma-utsav-murti": {
+  "src": "/images/brahma-utsav-murti.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Utsav murti of Lord Brahma in yellow vastra",
+  "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwACEXKAw+UotygAD+6PlEpP+aN0lWFEGVEiDQy0G/CMip2S6uTqLy1++2d211ASX+epyM+ouFQHWQhQwNBoUpkxgL/wdPo/lex11oiQXfkIjKZBiy2bf9TXiFTgJVAwGkcGNO5XmYhXk7M1gk357X6UdOdYWHb6XQ6uQAAAA="
+ },
+ "brahma-brass": {
+  "src": "/images/brahma-brass.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Brass utsav murti of Lord Brahma",
+  "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoAC/EpYCF0kmU/AAP7jhKITsvNAAquI1eqx0euAyo3IqrInRQZdXMB1WtagFoANOdph2Kh8fWrAEODFPcOv8miqnIEvqJ7jjraaUcZYx/3AAA=="
+ },
+ "saraswati-utsav-murti": {
+  "src": "/images/saraswati-utsav-murti.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Utsav murti of Mother Saraswati on the swan",
+  "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwBACdASoNABQAPu1iqU2ppaQiMAgBMB2JbACdMoR3ACsVz/Gx1b6B+rMU8AD+QJm9nkjRZ5ksqb/Gucb+1C25zJ9f5vF4sBNIljUKrSBgMd69IsdHxxw1biTyC7hmsQ4m7h9/hMgvm54SSSqie5rfiQ0xS1CcuWBG+5MRsH00vy+DaT1YMu6sv7gaqEYqe4fKne1RvIStTWUVAAA="
+ },
+ "saraswati-brass": {
+  "src": "/images/saraswati-brass.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Brass murti of Mother Saraswati on the hamsa",
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoABwZRNNcUVAAAA+4XRp1N+63KKrhNlnMsd8uViruLmbCmW0w+Q6E9n2C7M5g2QhIYuIczezzKviSkga2NPWiDzeLmbh3VLLTP48izbpHvnSDR51r3AAA=="
+ },
+ "utsav-murtis": {
+  "src": "/images/utsav-murtis.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "The utsav murtis prepared for the yatra",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoRwIsAA33GqfahqnaCxrAD+GETUEtGJcBLuDTtXiRbhpMbT2/PqVyjVWk06LX8WPPeRAEu4g9LF5eEOsg1RcxBqpSRW1/EYMfZe5TVcMkzbZdCcwL9U2fPITzPuC5jny3z53yIt/647iajQ8dnIO1jab3FFT2TBAAA="
+ },
+ "devi-utsav-murti": {
+  "src": "/images/devi-utsav-murti.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Utsav murti of the Devi in yellow shringar",
+  "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoAC9hxJgosJVATF7KgAAP7akxmtaf7h2uaKuSuC6UQZEerIeLddTbftAcdxhI+fB5ufCZbqJYTD0Wym/9c903UndAj7xzE0CdXuYa/skwmHGv58JqTFsX11G7QcaHNCGXf2PQ36f/DCb5PJXvYvj/8m/7HAAA=="
+ },
+ "devi-yellow": {
+  "src": "/images/devi-yellow.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Devi murti in yellow vastra",
+  "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoAC9hxJgosJVATF7KgAAP7akxmtaf7h2uaKuSuC6UQZEerIeLddTbftAcdxhI+fB5ufCZbqJYTD0Wym/9c903UndAj7xzE0CdXuYa/skwmHGv58JqTFsX11G7QcaHNCGXf2PQ36f/DCb5PJXvYvj/8m/7HAAA=="
+ },
+ "mata-rani": {
+  "src": "/images/mata-rani.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Mata Rani in red chunri and shringar",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoADg5PkLRdw1QefgAD+rTYWJWTqmdSHLjp0Lm8V4Zrq6HCeEplDHR2yfZyk/aVAYslJKNZ60sJEy3K1+ejmfpHuGymXxGq2D59CQOXWvd9xrTUFTfx8qX5SL0YLZU9WQ5MBAAAA"
+ },
+ "mata-durga": {
+  "src": "/images/mata-durga.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Maa Durga adorned with garlands",
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdABrZjLJMlzv4ryDAAP7sLm5F4Tva39ny5jvIClSJFT70Cm00EReyOIEDnXpFPZkPP0RUTAKyAYt8sWS3lvjrBhL16Jku8rTTJUrQmYMWCTNzUSAmfN12b9gC407oLLhPl+4Wn9vxpQAAAA=="
+ },
+ "mata-shrine": {
+  "src": "/images/mata-shrine.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Shrine of the Mother Goddess",
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdABrZjLJMlzv4ryDAAP7sLm5F4Tva39ny5jvIClSJFT70Cm00EReyOIEDnXpFPZkPP0RUTAKyAYt8sWS3lvjrBhL16Jku8rTTJUrQmYMWCTNzUSAmfN12b9gC407oLLhPl+4Wn9vxpQAAAA=="
+ },
+ "mata-side": {
+  "src": "/images/mata-side.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Mata Rani in the parikrama",
+  "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JZACsICXCS2Vv+fHexwTNagAA/u7u9qYMXJsVSV20QDO8JRSlAx/KfNj7UxkdPRIpUaXWh6LpH8BqjeRNKlWfeKARWoUn5BG0ffposwqtNbhvjxVbsGibmHk0PRb5qGiAAA=="
+ },
+ "ganesh-shrine": {
+  "src": "/images/ganesh-shrine.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Shri Ganesh in the mirror-work shrine",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JYgCdMoBOACLd4uABhpwXjwAA/uRGKJsH7y0yCE3iNpevxgrexptWU9HNXs6P9foBZhaD5R7wqctI1ss9C8DDfG0ns1jwaEDM5U7oWEzxvomvpJ9UgAAA"
+ },
+ "shivling": {
+  "src": "/images/shivling.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Shiva Linga with the copper kalash",
+  "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoACtGCxRxRK6uE2cAD+I4ihftWqnvlXeQp2aE9A6dGHMw0W4yevSmfm2laVvOl/8bx/f28qTphBt4t8JxtVrnPNEtYd9o3py7k5t/u1VpyMIu2XHpOTAAAA"
+ },
+ "shivling-decorated": {
+  "src": "/images/shivling-decorated.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "The decorated Shiva Linga",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdAB9kgW1fAepf9Hm0YADKF4KouSc+QPt10Tk5iWNkBoQDnopyOY2CdpYHJhXYiGeyR/ylDUk0BEyE+V6lTjAiO6JsW5ITK7VUzsxoa3BPDZWi11sIbJsdHm5FSJEDZO6CQZSqZQxPAAA="
+ },
+ "nandi-pair": {
+  "src": "/images/nandi-pair.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "The golden Nandi pair",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JagCdH8ADMkjsQ45QpHaaW9MAAP4yxQ1PAUgnrVt49uUb6rF8RG7EEW8AQKYxntli8gXkeT2ri0E+BzmcGgWdNw9dlhDt5wbzQQE1727NBxRx5QoSozzNUPjHZ1SRYxsoTBhXEWkbttLvwiB8IP1yHTG7AAAA"
+ },
+ "radha-krishna": {
+  "src": "/images/radha-krishna.webp",
+  "w": 1200,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Radha-Krishna in a flower jhula",
+  "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADQBACdASoPABQAPu1iqU2ppaOiMAgBMB2JbACdMoMYHCAD0koY8pHlUkVCsfu5EAD82LSuaGIbm+33g/nYHLOxQwye/61U6rBUmnpmokWrUj/GlhFQuAWFS8qI4Gbx56bRqmKBCcorjv15YRvS+3wHmmRI/EChsO0WPnbRLNJAHkrb4mHb2zH49FRz6kCi/9o7YIKeh6OnPuTcIdsb4tPx/yW3aZ+P+QAAAA=="
+ },
+ "devi-shringar-full": {
+  "src": "/images/devi-shringar-full.webp",
+  "w": 720,
+  "h": 1280,
+  "cat": "deity",
+  "alt": "The Devi in full festival shringar",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoLABQAPu1iqU2ppaQiMAgBMB2JbACdMoRwACx5ZwLNJlkIX4/JoAD+R+jXAgxSClrNgAJkU95km4IPa8+574a5i1LcPgqBFDjEir3m19yCZ3JjNJvfVLYGq+zRQhah4SgztJP1sUUsde6xTrfXK/PDZgkMTER5AOMXPkAIVEL5cUHUX6bwLs+FHDNbNiycgAA="
+ },
+ "shiv-parvati": {
+  "src": "/images/shiv-parvati.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Divine couple murti in the side shrine",
+  "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwACndgZ1iUVNpkAD+8M29NkXYj9SmcnVSFeZFfKwk8cerp7HYUK28HpX9ePf/pb30Gkseg7qpYUuF1hlAaMUAnCM2RtHIcsIC7QEU9z0fRyY0pmyQ8AAA"
+ },
+ "ram-darbar": {
+  "src": "/images/ram-darbar.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "deity",
+  "alt": "Shrine of three deities in mirror-work",
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JQBOmUAAzVWGuUeIAAP7u2fGA3e5Lh/x6LI5HySE8pZgJErnuaFjTuzvDL/+OesvSJPcC4C0UCRIbaNtPGQexH3mtct9lZe+l0+cKnAAAAA=="
+ },
+ "mirror-shrine-1": {
+  "src": "/images/mirror-shrine-1.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Mirror-work shrine of the deities",
+  "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdABs3RlsEW7qX91/oAP70MqPhxO3LA2zZXYsOxyxXv75wBs9opBPVWqk/x/7ZTWjeOwPMCObwabhsNbTxWyjf+FJ0aa1NOY5ZOWRdpqetMi6oAA=="
+ },
+ "mirror-shrine-2": {
+  "src": "/images/mirror-shrine-2.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Divine couple in the mirror-work mandir",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAwCdASoNABQAPu1iqk2ppaQiMAgBMB2JQBdgBH9o9rAqXgOkAAD+8uIbfVAx0obXunafwY6rgxyVL2U9oF8HMLqZvxQNqPl+6e27ubRon8hOa8zGWJzUtxC98OL99XegFjWEcYy8jbSTBjDRrUAA"
+ },
+ "mirror-shrine-3": {
+  "src": "/images/mirror-shrine-3.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Murti in the mirror-work mandir",
+  "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JQBOgA9HbLkXZye8sdAD+8t0KSAKZznQ6P4//8mQt+GZJTFbklxMZgutOD2SuJGtRSK52uQuBvp7pA+FHnrdNXHZWkrkBYHIZuzhKsnJFdwTTSCyx06CKjUJTbFjgAAA="
+ },
+ "mirror-shrine-4": {
+  "src": "/images/mirror-shrine-4.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "deity",
+  "alt": "Devi shrine with Guru Maa's portrait",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JZgCsABqxlhOG/hSAAP7vJgq39mKd1VZOo6fWANbEF3nKqVHfYjGPI2QhEofa2QEW5oqVYg85It/9bAc2qngzTTRW0k8yKr2LJb4/VClMHIAPm0hs9EL+F04nYPRA/+jkEpRD5ooVOrIA"
+ },
+ "mirror-shrine-5": {
+  "src": "/images/mirror-shrine-5.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Three deities in the jewel-like shrine",
+  "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBACdASoUAA0APu1iqk2ppaQiMAgBMB2JYwCdAB7HmTxvEGRztGLtgAD+8tzZf53kZa02iD/jAfiGErKws1FawtJ1rw0sUIzVDorDoVdFj0dvZrehPbwg6JUceXneMgAkPTZR7s8B3hImJDAAAA=="
+ },
+ "mirror-shrine-6": {
+  "src": "/images/mirror-shrine-6.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "deity",
+  "alt": "Deities in the mirror-work shrine",
+  "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JYwCdMoBugA8UPp68FUG7ewAA/uOHDsNxgaXJPx9avmqyFuo1VR/knSzB+iGvwY/ZhdV9Ankl1WFJVSmKmypzgN+FjWwWmmk7K9QjqrpzFEY5PUqAAA=="
+ },
+ "mirror-shrine-7": {
+  "src": "/images/mirror-shrine-7.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "deity",
+  "alt": "The jewelled shrine of the deities",
+  "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JYwCdMoBugA8UPp68FUG7ewAA/uOHDsNxgaXJPx9avmqyFuo1VR/knSzB+iGvwY/ZhdV9Ankl1WFJVSmKmypzgN+FjWwWmmk7K9QjqrpzFEY5PUqAAA=="
+ },
+ "decorated-shrine": {
+  "src": "/images/decorated-shrine.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Shrine decorated with balloons and flowers",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBACdASoNABQAPu1iqU2ppaQiMAgBMB2JZACdACP/6zR8al4W1rGn+wAA/sEZNeP9ccyD1DjlDgrc3uuyQRto2lTu8Th+RBw92Isy9LR3Anz4mJ0h5rszQKbvVIRuLUNpQaVxsTOHgAAA"
+ },
+ "decorated-shrine-2": {
+  "src": "/images/decorated-shrine-2.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Festival decoration around a shrine",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBACdASoNABQAPu1iqU2ppaQiMAgBMB2JZACdACP/6zR8al4W1rGn+wAA/sEZNeP9ccyD1DjlDgrc3uuyQRto2lTu8Th+RBw92Isy9LR3Anz4mJ0h5rszQKbvVIRuLUNpQaVxsTOHgAAA"
+ },
+ "sant-murti-1": {
+  "src": "/images/sant-murti-1.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Marble murti of a saint in saffron robes",
+  "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoFWZgVDt5aNf3ClXuwA9rAa4C5eELvzooEGl7ngcGjRguWpHXcaq1BUaVS2PKiiWEEh4hVESJGP2I4Cbycu+6DxMnzT15LpSg+8MsC2/7i0T18UyLOoxdIJC/MdsH0KM2F12GR1vhX9u0Q1uTf+ZyFAAAA="
+ },
+ "sant-murti-2": {
+  "src": "/images/sant-murti-2.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Saint murti offering blessings",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoACs2hIhHb+UXAAAOJuebeic83BJhsSDwLNNELc19tGdiRvUmQBL36PKXecLsFzfzq36Svw1hnM5Sc8kTs6+iQPlHkYn9EtmR8k88XvwXN+9+Np4OClikTWZIqC2mfSulZVI3AA"
+ },
+ "sant-murti-3": {
+  "src": "/images/sant-murti-3.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Saint murti with garland",
+  "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoR3ABohv7vg9eXuHAD+MsltrzHJw7Wk8MDtbvnVUNIFsN32ARtu3b7u0CmPRF037cUG42oyNo1+wJIWcbXZXftsj1wai2tTm7p14PJLiG9+G6IwjqxIpfpsKelkiXwahS3Hl5hPC+laodiSSwAAAA=="
+ },
+ "sant-murti-4": {
+  "src": "/images/sant-murti-4.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Saint murti in the temple niches",
+  "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoFWZgVDt5aNf3ClXuwA9rAa4C5eELvzooEGl7ngcGjRguWpHXcaq1BUaVS2PKiiWEEh4hVESJGP2I4Cbycu+6DxMnzT15LpSg+8MsC2/7i0T18UyLOoxdIJC/MdsH0KM2F12GR1vhX9u0Q1uTf+ZyFAAAA="
+ },
+ "sant-murti-5": {
+  "src": "/images/sant-murti-5.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Saint murti in saffron",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoACs2hIhHb+UXAAAOJuebeic83BJhsSDwLNNELc19tGdiRvUmQBL36PKXecLsFzfzq36Svw1hnM5Sc8kTs6+iQPlHkYn9EtmR8k88XvwXN+9+Np4OClikTWZIqC2mfSulZVI3AA"
+ },
+ "sant-murti-6": {
+  "src": "/images/sant-murti-6.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Saint murti with garland",
+  "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoR3ABohv7vg9eXuHAD+MsltrzHJw7Wk8MDtbvnVUNIFsN32ARtu3b7u0CmPRF037cUG42oyNo1+wJIWcbXZXftsj1wai2tTm7p14PJLiG9+G6IwjqxIpfpsKelkiXwahS3Hl5hPC+laodiSSwAAAA=="
+ },
+ "shrine-pair": {
+  "src": "/images/shrine-pair.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Divine couple in a decorated shrine",
+  "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoHgA5/8B2rlhJewfgLbaYgA/t0xN7B0Waqp1ILijOvSTJrU4vJSN5zcqPcJaLYMlFvZ44/i32MRHwwnxeaerUtvt/OR6C8LyebNc0w/ZZpTNfu/4RBItEDofANvZ9b2cgAAAA=="
+ },
+ "shrine-arch": {
+  "src": "/images/shrine-arch.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Balloon-arched shrine entrance",
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdLwFx/ASH/rVylzQou/8MAAD+xEestcyQEMUGbRQ60lGmlqGOF7Lzf3e9Cu4SrzkASuSQpyRaDWK+yF620L86k07kJyQQwcUxTeA51WzyuotarKLZ8BSMk5CgJ6cuYjJLsGBDvXIEMRAAAA=="
+ },
+ "guru-gaddi": {
+  "src": "/images/guru-gaddi.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Shrine of the guru gaddi",
+  "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoMYAE5aXLi6Nu1HvAAA/tqJUlLx0Xf6DGnabiAbMZmasCzdEaouFktUhMFaIFAt9tJyzKvBqWb7t+aujAiZ9kEmiJ4e8JbPgcF78i93TS3KGYLjlarvkYNK5BlFuA4AAAA="
+ },
+ "guru-gaddi-2": {
+  "src": "/images/guru-gaddi-2.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Guru gaddi shrine decorated with marigolds",
+  "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoMYAE5aXLi6Nu1HvAAA/tqJUlLx0Xf6DGnabiAbMZmasCzdEaouFktUhMFaIFAt9tJyzKvBqWb7t+aujAiZ9kEmiJ4e8JbPgcF78i93TS3KGYLjlarvkYNK5BlFuA4AAAA="
+ },
+ "jhula": {
+  "src": "/images/jhula.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "deity",
+  "alt": "Laddu Gopal in the decorated jhula",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JQBOmUABWuQ74iOBbVo2X64EAAP70K1rm2dygBP+KaxUAr6AsgFoiPrAazrl+43HvmMSZ++xgD1PoTFj63AQ9Phy3GGHJCPJS0n6oKLMTAAAA"
+ },
+ "simhasan": {
+  "src": "/images/simhasan.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "deity",
+  "alt": "Golden simhasan with lion guardians",
+  "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoHgAAcpCF4nPohlyUgAAP7mTGrbxCFiwFfMMOIDLQqEgvwhXXR/Fh/xMSecW4JYXFuSixTn9GK12Wg8tNnm9YPCBaPJyEqaG3DOP/R21qCNklC8tASF5WtUmGpk3J99VqZItu4hiBlkwRiAAAA="
+ },
+ "temple-day-shikhara": {
+  "src": "/images/temple-day-shikhara.webp",
+  "w": 900,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "White shikhara and saffron dhwaja of the mandir",
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoLABQAPu1kqU4ppaOiMAgBMB2JZACdMoAKRqtCInWh92LWAAD+9gE5aZxqzT8tf3bkZQVgeDl50pbwUk8DQ61AvRTF0oqwYJ+9lr0J8AA="
+ },
+ "temple-utsav-day": {
+  "src": "/images/temple-utsav-day.webp",
+  "w": 1600,
+  "h": 2400,
+  "cat": "temple",
+  "alt": "The temple dressed in festival drapes, filled with devotees",
+  "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoNABQAPu1orU2ppqSiMAgBMB2JZAAAW+oU9lONV0kyldxIAP7xzUq5N7LVwvaV8bfpJX2qVI/djZMF5NEud8TOsDpq+WTJ1L2X4O+7q0dPiXiOuVH0Lkgl+kGPnBIIWGNptN52adMxr/azYu4JwHN93d674EmL7kAAAA=="
+ },
+ "temple-utsav-wide": {
+  "src": "/images/temple-utsav-wide.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Wide view of the temple during the utsav",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JZgCw/f/gO59vguOBNgnTyOsAAP7zfxGBvsPGgw1jyVzZShlhOtuegUM+rLQr1a10PmPqZs3CV55HRbL/iPVjTpHjKR/9eBgI7tnQSu6XtbeszkVnt0Yq2Xe57zX7ZZe4Zn4O498WQZs8gAA="
+ },
+ "shikhara-drapes": {
+  "src": "/images/shikhara-drapes.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Shikhara wrapped in pink and gold drapes",
+  "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JagC7MoADTrskKi1xiiJDiiMoAAD+8DX8g9BxLsiHR8tR1QrxuCcAWdv6hPjj9HP3zeUoUE3AUItGcoyok3cJJ17oFDGoJsS5UvRKx/5hneED3y1RgI4tsBccEVLkQ2q+vX9jUIu5dukxpzezT4AAAAA="
+ },
+ "temple-street": {
+  "src": "/images/temple-street.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "The temple seen from the street on festival day",
+  "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoUAA0APu1iqU2ppaQiMAgBMB2JQBYdhDvU3LA1FYw3+PTAAP7tUbR9LJZScolMyy2u7wmmg7TPeLZdWUupr5T5NsqFquoq1R8l8ME92sTUOQ2XYD3fCqNXZI77Yq2jajDjZAAA"
+ },
+ "temple-gate": {
+  "src": "/images/temple-gate.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "temple",
+  "alt": "The red festival gateway of the temple",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoADYrGp916wBoONEoAA/P3bn2Er1izC/jw+dkjkOTvVujKzZK6Qcry4WkOiIH9ZXSqFWl0FF7Lh6T8C89XZn05V+3pPXLlvcPDKt/tvROdjsIH1Qz8X3EJ2DHwXn9AnJPeBSAAA"
+ },
+ "carved-mandap": {
+  "src": "/images/carved-mandap.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Carved white mandapa with the shrines",
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JQBOgMYYVjauR4hLpm6MP8m6AAP7hXt5qnW1CXMzRLRsXq+A9mdG1Z+gkJHDE3aCT83EuK2ocJQBeirMav7rzjP/3FDDoRkXn+GIDc+B/f2CmXO+IryNoMF/LpufBl5GpCzp0+KE/9DznmQAAAA=="
+ },
+ "carved-pillars": {
+  "src": "/images/carved-pillars.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "temple",
+  "alt": "Carved pillars and murti niches",
+  "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoUAA0APu1iqU2ppaQiMAgBMB2JbACdMoHCAAGsAh3Dd7CwXAD+6PXq+buwPiF2weVoCwlU14/x+2U3hkyxiPcj9PzhC5Kzi29SKwDzhqxkxDjIg7HVFkMGkcz8AtlaybLMiTn9vHGPFztaSXTuF7+Ck/QT9j3825AF1xnUfxFkXvV/nyfG8HFEAAA="
+ },
+ "canopy": {
+  "src": "/images/canopy.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Festival canopy over the parikrama",
+  "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACwAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JbACxDDZCHmTyU+1dwAD+6zG6epYyvMKE8pebuWWfmX8Z6PozIPhqhGFk4WYQ/dgq5mvd3aM+cd7sN7bRxCoUit0ANoHT9RXqX6BRx5fiyn0eTyfh9VF2upTEQcDJqhaW6VRHofKm7PHOg+MZaSh4AAA="
+ },
+ "sanctum-arch": {
+  "src": "/images/sanctum-arch.webp",
+  "w": 1600,
+  "h": 2400,
+  "cat": "temple",
+  "alt": "Flower-garlanded arch of the sanctum",
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdLwABYot2qbLMBjrgSQAA8l8ZkvuoNQhd8lPVsCZMGBG1Ev0odu4Mkexa74TKNi9ZEILzCGNCfm0i/R1C9a8XMOi9161q4qvAxhkiGR0R6sozXCv4hrNgAA=="
+ },
+ "sanctum-bell": {
+  "src": "/images/sanctum-bell.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Temple bell before the sanctum",
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwN5AAWZypUS4Hu393I1AA/I337WyxE2ifoPpQhE0P/sMcAOmL21lPj4mgvPONrt6MvdjjMggJeudARRm5+9LITuAcrSHWAu9+B64hTH664ieGh+GxJq5EkTx8r5QX4sYXPeD4wjBWAA=="
+ },
+ "marigold-canopy": {
+  "src": "/images/marigold-canopy.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Marigold strings over the sanctum",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACxGwJ5AAZugw4AMkkjCRxgAPY3CvpKRkYvZDGbu7CMGTte9CWxmBxVvGytviI/7Thp2pdMrjxH/PZBPewQ7fVT6CYhZqEfRycHRiDaYmrpHGBj8aj4FQsSsrbqU+b5f8aqUb09TwAA"
+ },
+ "sanctum-balloons": {
+  "src": "/images/sanctum-balloons.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Sanctum entrance decorated for the utsav",
+  "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoRwFfwAOe4Do+rQMdMjv1EAAM4aeic9arxe35UbvEWQ0MHKz2/b60uA0N+9XTWB6143wb6fBamE9nI8IoSF34suy/f/iPK4jGESrn4pPbW8Ljd5NhBvVT9nOXUUvfKlszgZR7/zY3vmqjbSx8+v+vrP1rvpBzPmP4Ku7eE3fobzAY2l1m91YRudSEW20AAA"
+ },
+ "sanctum-garlands": {
+  "src": "/images/sanctum-garlands.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Garlands leading to the sanctum",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoR3ABD8RiiK7Qe8gAD+Mo3lp4wTPiLHaGkrpFfpYTdb7KPDNVlPPKqpLaF2iXZJUcvFG7L+sXgGhDEqw/Xx/OWBqpsP1fo/avIU05pyNEPuGboN+l1ER+1P76A7NVCmzkP8IeaFsek6tmNH77GLwLAA"
+ },
+ "parikrama-mirror": {
+  "src": "/images/parikrama-mirror.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "Devotee bowing along the mirror-work parikrama",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACwAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoAB3X0snFQK9AD+vlCF1i7DL/sZAh9pTYWIpiVaHjbEbK71NDd46dh/+9gn1uirpcwKIHmp3ZDaay/Iije+ddAmjKK3FSWoyudTbCukOJh/GG6YKsrFrXWf4KY4CUyy3oGxZTrEkAA="
+ },
+ "mandap-hall": {
+  "src": "/images/mandap-hall.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "The main hall filled with devotees",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JZACdACBvBXooanAALULgAP7OBHGjv4m6oHWtnz3LzhG5lKAlGAbz24OWlX83YAIEo7LtoDL3ba/o18j36IDBka42FwzxXpGRwCSDKLDSHnyljwlNQkLoJ+E018txg6l7oPKnhClkdC6c0ILtOEchka/GiAAA"
+ },
+ "mandap-devotees": {
+  "src": "/images/mandap-devotees.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "temple",
+  "alt": "Devotees taking darshan in the hall",
+  "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoUAA0APu1iqU2ppaQiMAgBMB2JaACdACHw+t1387njtCa4AP7vJzQw6llm+XdLkjCYxZ/XZT9FdnBSWByOKrt7eXMpZ2USvfRmlV7V0DxW+UdgzmCtWoCzZrR36kJozCapoFjn8vwkexnjpIx06+PsAphz4H0AAAA="
+ },
+ "parikrama-hall": {
+  "src": "/images/parikrama-hall.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "temple",
+  "alt": "The parikrama of shrines",
+  "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACwAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JbACw7BuMvn9oA1ZFCAD+6V4NwWsxoveqbL85fitZz2uPtWpeljsUZk7WhA310er6XamZqwcYMWM+m8VnZAWxLzZAs6g8R/6pfxm0D1YpqoZm8RzCOwHV8Sklf0kSyPo6P8Nr4mdYZZpEw2wmqWZGxUAk0r8xICoAAA=="
+ },
+ "darbar-hall": {
+  "src": "/images/darbar-hall.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "temple",
+  "alt": "The decorated darbar hall",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACQAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdABkandTI5lO0AP7p+ffXJmx4BSPeBTcrahLPj8564lOujejk+oIgMfTkx3rGUNItv9/0ENEdUgtBqWcAyCP24zwVwB/cSCExvQoNz+kdoFPjkUXDogqESslr4x7G8P12NfxbEnrgAAA="
+ },
+ "darbar-simhasan": {
+  "src": "/images/darbar-simhasan.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "temple",
+  "alt": "Guru simhasan in the darbar hall",
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoADTiT0NvSDy/Wc4mwA/uz2kG+7lJVETyCypOreCGeMeC3a5h32IAVdW89oPBfCOgd/h7Z8TSFrCp8ADVerCNQ53NN3+TjFpixSc4tlKrjLQgE+Xi13oCdyeu7fF6iEFKP09gKKSgUAAA=="
+ },
+ "temple-night-lights": {
+  "src": "/images/temple-night-lights.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "night",
+  "alt": "The temple lit up at night for the utsav",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoHgaAeMu1OIWbMzoqgn2AD+8X3VblUei3qzXSSi5wrGx+7QAHPUyEWFyyJJom5X9elU/AXwLQhDfsK0E7nZPSvwYr8ETZEAbsXIqU8mmGM2NG0gze4Vg1IPpnTSi/hQaqSfJ7RYxR1EJAms+DQeAAAA"
+ },
+ "temple-night-gate": {
+  "src": "/images/temple-night-gate.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "night",
+  "alt": "Illuminated gateway of the temple at night",
+  "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoMljEFGZ1FKe5e8AAD+8rS6RY1LeZeU/Pn8dptGQy9nB4QAZR/+VzZ8TlPytZQJIbL1nVD0QNwTAAYcsr1/ySCoqrO6itizR46N4a9PcrjRYx1QK/foBe/L1Gtd9bOizQg1dzTQgxVz9wNDqmxvYbMAAAA="
+ },
+ "temple-night-skyline": {
+  "src": "/images/temple-night-skyline.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "night",
+  "alt": "The temple skyline at dusk",
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JZACdABt/yULrkiMD4AD+nldQXSQkuw6R9ymurw/pq+0i93rqeJ7icdbpI++ig58PsmuyY9AwcoLEx4AAAA=="
+ },
+ "temple-dusk": {
+  "src": "/images/temple-dusk.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "night",
+  "alt": "The golden shikhara glowing at dusk",
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoUAA0APu1iqU2ppaQiMAgBMB2JZgCdABZYpOU268cREEAA/oC6eZSMWj00xtIWaGugb+ozqFVkB3eidT9jIy2I+QFSQJxnLkdQuQ0e+BA47rH12ld/gAAA"
+ },
+ "temple-night-celebration": {
+  "src": "/images/temple-night-celebration.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "night",
+  "alt": "Night celebration with colourful lights",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoMYADiFSnDd6fm6AAD+8rR7QTBNewM+nEcR/sqjJipyeHL0rU22BCaAflsLQKsnrrdTmtab5J3nHFhWtje2Scw676TP4ivtKbcMb9QnuJ1TJf+4aw1lvBqIvhGAB/khTyiM8rvRhAHcs2Lt53NFnZDde5HnMdcgAAA="
+ },
+ "fireworks-1": {
+  "src": "/images/fireworks-1.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "night",
+  "alt": "Fireworks over the illuminated temple",
+  "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JbAC7ABuvXPY34AD+vIo8yWJweFrzEugCGuHiwm12KDahftwcix7yp8oehQcad2n8aLRgI36y2PY9v+qVYj9NbX1CYxggLyznLqAA"
+ },
+ "fireworks-2": {
+  "src": "/images/fireworks-2.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "night",
+  "alt": "Fireworks lighting the night sky",
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACw7CDp6bpfrdmUNwuYAAD9lRuyRgXFQsQn7ukSktXIZZIJ+zXpQ+Yas7X3Momnc3tc1/cfmkDX3lu3Wzcd55PWzkf7Ka37d8Y1pXLRmTSVfAA="
+ },
+ "shobha-yatra": {
+  "src": "/images/shobha-yatra.webp",
+  "w": 1280,
+  "h": 854,
+  "cat": "utsav",
+  "alt": "Guruji, Swami ji and Guru Maa on the marigold chariot of the shobha yatra",
+  "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdL11s/wHgdCHb/hpiMWAA/mtXsFSRobNCNohA67Kh3YP22/8q1TKeLNG0xd1DVLCgjmFBK1FC6HTCJCQ0qGBsdEIfUEA5PVk4uekzgxxOtfAPNN070nYZzByK7mbQxq95xXYAxyYxAVufMfZW8eY3flSDn2LkH/YpseghIJtZG2iUrfcD/AA="
+ },
+ "shobha-yatra-2": {
+  "src": "/images/shobha-yatra-2.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "utsav",
+  "alt": "The flower chariot during the shobha yatra",
+  "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdHYBi/4DxQvJe7rFp6yu4IAD+a1ewU0Mh4X/ekI9T8gdylKnSRnWXVeAmcqyRpwESQnRwgnVkftgFL4rjSUsfF36VJ2b7moD5U/Pk0Bk7xKM+CEV/DkgqJegFGD+HetaSKPs8hIJ0ROtyG7JJ/3FKP60yEhEV0KwU3sW0v6WpsLR/AAAA"
+ },
+ "shobha-yatra-3": {
+  "src": "/images/shobha-yatra-3.webp",
+  "w": 1280,
+  "h": 854,
+  "cat": "utsav",
+  "alt": "The Guru Parivar on the yatra chariot",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JagCnJf/gLrV/MP/auMjeBSgA/mEkNzBKJPKfsi2nAYlwgSnVHRun4dtIbN3x6qA7EcHbBMWd4jGtHX1VMLG6A84oYatDq8TeO3RyTd1hnkIqSL7Tds/FRlAA4XJlMW6nLigY6hGng2NLD//J7OacOOMsw+iw+ZqBZntGuAA="
+ },
+ "guru-samadhi": {
+  "src": "/images/guru-samadhi.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "utsav",
+  "alt": "Shrine of Kurdi Wale Maharaj Shri Ji",
+  "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACw7CLHt79hnAXjcmvUuwAA++wqOclJPRyG8+Kj7uzGpdrwAoS2aofXjKh552VMVU8xMuBe+VDeXXzazSaire+MT0UrhqxU2MlFbIi4B6NNbNz+fai0gb8xVuAA"
+ },
+ "guru-samadhi-2": {
+  "src": "/images/guru-samadhi-2.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "utsav",
+  "alt": "Kurdi Wale Maharaj Shri Ji shrine with garlands",
+  "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoADReAWvhD8Xf8BhWAA+TP2BIbtkMZEAlkyzAQ2sKvW32J3TujcI6ce6ezZ1N4jiW4Fqj2g1SqxqfTWf4vgx3CDhXUh01lUY60PKkv3KNatgEEnXeWynx4US4/8YT0y1b39Ifjtn4ZUecZ4rYJ3gmbLRp9AAA=="
+ },
+ "tulsi-chaura": {
+  "src": "/images/tulsi-chaura.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "utsav",
+  "alt": "Decorated canopy and lotus base in the courtyard",
+  "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoRwACfIP/Psjoj7XF8oAAD83Dpc5fkWlx6Cqj7PXnDH9lcUQvz6uDQ4VUEkTK3vXeVG+8QlaraoH5v+PmVs71uBZUPsBhRFMc3SQWD8C819c3rlImaKbnDLW15GBmLbEQyNGW+c06A5uES4cfdO5h3FTv9RKxkCiJMSRjUZBDIYp9ko6OBxGWgvTdRKKCeF7VAgwAAA"
+ },
+ "utsav-gate": {
+  "src": "/images/utsav-gate.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "utsav",
+  "alt": "Balloon gateway for the utsav",
+  "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAACQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoR3AdCsxkISMWqhL0E8yLAA/uDLpz6UOg+NvI2NpXnSJPxHN0tdUqSFlOK1U+B7z5KGyw/G68zlS8ITehrmh/V1bRmTHfDLAd73HqQEY3tMxt5QwE5xNiDe+SKTWPjlPnulncpsmAs1HIxYC6+GwQV2ad2AEubAfPQBNAaZUb2cAA=="
+ },
+ "dhwaja": {
+  "src": "/images/dhwaja.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "utsav",
+  "alt": "Yellow dhwajas prepared for the yatra",
+  "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoADgpkqUlmdwzg30ywA/t1OoUw6yLJJoo5hW0WV9y6IMl7lkguIhiJpWC0pxRd0Q4cFBOMY5jNxb+1qYl89sGWxqxk0AtdPux5y2BY3Q5sMINVZcNkW/iOpTNx1i606wkxdxf0j/1zisAAA"
+ },
+ "kalash-yatra": {
+  "src": "/images/kalash-yatra.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "utsav",
+  "alt": "Hundreds of kalash prepared for the kalash yatra",
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQAwCdASoUAA0APu1iqU2ppaQiMAgBMB2JZgCdMoAC8+z3uIsISoAA/uTqI2kce1Kisz5ypOmeF9b1/2NRlKisCv+UIheYWnklZDEnnq/4fehcDjZ0NUplj8E0UJNimnKJ3sLayvoUGanoAAA="
+ },
+ "darbar-utsav": {
+  "src": "/images/darbar-utsav.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "utsav",
+  "alt": "Devi murtis on festival day",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdB2gAQmMvb3YQ5kcMAAD+6fpLL++fcdcKirwlUNcm0dnL7y3ZGKqaJF1lBExUUlsxS3ZChCblHc69gLs3bGuRGITkC7K4ChmlLTmQ3hGnmNyjsVhsUTHiughuDjkEgWG86T62wlwYAAA="
+ },
+ "havan-1": {
+  "src": "/images/havan-1.webp",
+  "w": 2400,
+  "h": 1600,
+  "cat": "seva",
+  "alt": "Devotees performing havan",
+  "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdIE3J/gNcH1qVT3vtnhWZyM4AAM4HepvDqy0RQ3b9j4OfVGHm1JAAWumRXZPidl/1YDCCUGXBfje2Ne8ICVWp5F2BFYWUGsnF1xH/++/kVnvK3Y/tsp/0hE4oXClX+ZuWFOweZXAKRchg2Pm4mgJz9XsoqsyyG1i6v78nqJJmR69+8xGBCVffLWLTiybe95hyc2/gAA=="
+ },
+ "havan-2": {
+  "src": "/images/havan-2.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "seva",
+  "alt": "Havan with the acharyas",
+  "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoR3FyAev+AiB8YnpW+Fuq8PAAD80Pdouw+/70qaGd0CIVHNEUpl82zz6MKIyK4iqmDrYr9/Tch0KlPNQGJw4rHChAaPCLzPV4GZV7j1MOxGEMXQbS3HZmMT32QLKy+eq0sSg4MuRre9xpF1TmIhL+DUV2D/+B8djYovcoK87GdyH8zuPFSCOfqHBWWj3nhxmzazYAAA"
+ },
+ "havan-3": {
+  "src": "/images/havan-3.webp",
+  "w": 1600,
+  "h": 1067,
+  "cat": "seva",
+  "alt": "Preparing the havan kund",
+  "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoR3B8zIQzwcz4IgSZAA/MtN6aSu4rz+eBdBqV39BxLOLYcyebl4qUYlETVg2jKHtBUeH7dbOf0gx1HBBCQ4v1DgINspT2U7ALsA9Y95v7t2v9MidpL3froZBrBjgQ2A6NBiCrwfthJjxa069HyUlDJmMfQ3mwcOet/g5M/g2IcRCfgDNEEJmBBG4tQAAA=="
+ },
+ "pushp-arpan": {
+  "src": "/images/pushp-arpan.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "seva",
+  "alt": "Devotee offering flowers into the havan",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoACfTprw3pQp38uAAD2X5Je0teu61m2FGVxOQfDLHW7avhXpn2WYFHjzMph29/g0ilPMF8RyqVcsTOkuVQTytv5nzj4bSqI+z/lgUNeIZmucO2F6Mgr1W3RpDPpB7YqIoYd/dz/z1Ixig0G8wEma+9KCi+75lNQAAA="
+ },
+ "swami-sandeep-onkar": {
+  "src": "/images/swami-sandeep-onkar.webp",
+  "w": 1067,
+  "h": 1600,
+  "cat": "guru",
+  "alt": "Swami Sandeep Onkar ji with folded hands",
+  "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABwBACdASoNABQAPu1iqU2ppaOiMAgBMB2JaACdOUDZABCOLBIXIyI44382AAD3jh3WnDNNZS4NHwoFu2GtqxyFCYOUPaU2wv3ByRf68LjLy0p809y7asK/x2KvzgCZwnN2rNRhtK/TW8aWlevsEAApvNsdqpEm5OmvvsEeUH8PLFO2hr3aOHc3x3nhjbxgTYAAAA=="
+ },
+ "guru-parivar-red": {
+  "src": "/images/guru-parivar-red.webp",
+  "w": 1600,
+  "h": 1068,
+  "cat": "guru",
+  "alt": "Guruji, Swami Sandeep Onkar ji and Guru Maa",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoRwAdCVAlVnA21GzoWcl9wA/tyFZOdZz4Ar16CgzrbG0lsAxAJFpr1nG6A6mBXflREI9BsBWG8TSOC/1YblulS6Cyl+3qkHw+AH6fC3MM4bjZTs6X4F6bM+kZWESKs17UbGno5HQMCzNeWLpTC1K3AA"
+ },
+ "jai-onkar-yatra": {
+  "src": "/images/jai-onkar-yatra.webp",
+  "w": 1080,
+  "h": 608,
+  "cat": "utsav",
+  "alt": "Guruji, Guru Maa and Swami ji on the flower chariot",
+  "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADQBACdASoUAAsAPu1iqU2ppaOiMAgBMB2JbACdMoR4MQAFNjCUn9swHDC7b1mAAAD+4nSi5yC39chaTG8hYiTUOXMqkCxGXNhUcuDH9t4JgpVCpx2gnFqbk9HA1OvzgDXCSNzPAK/a1ue4VcChFve9WM0pmvg41C78UroZVbr/t79D8q09P6gNOcTdoFTlRD0HXmQvw1lIcxEdrW3GLo4A"
+ },
+ "temple-signboard": {
+  "src": "/images/temple-signboard.webp",
+  "w": 1152,
+  "h": 1536,
+  "cat": "temple",
+  "alt": "Bhagwan Shri Brahma Mandir, Kurukshetra",
+  "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBACdASoPABQAPu1iqU2ppaOiMAgBMB2JbACdLwGUBMpIFRhrdZB9R4j3WSLAAP7TOWgcDd8ZoMKcEnU9Bb6UOnn46hKYfJRTxAWCIGMbGNB209IzTVWWoyJOY9kbBFCZl9wVYgz5JZZ3GRAc0kTxZDgZLj9M9DpGMXA0hLXh2/ty3G9U1LTfiSSFp1cf2/88YrOQLWJK2FRvvUhRvAAA"
+ },
+ "temple-night-tower": {
+  "src": "/images/temple-night-tower.webp",
+  "w": 1350,
+  "h": 2400,
+  "cat": "night",
+  "alt": "The temple spire glowing at night",
+  "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoLABQAPu1iqU2ppaOiMAgBMB2JbACdMoACrcP/NKw5WrSs18AAziQ9/UcaXVB3YjN2Q+BnnoS6weQ4fzjjqiRp2kwvUuxNkKuYi10FpvUmMUrGUC2FdRFkkj6Vn9p2+x/vJtI+ZRG5Gy6+p+Pak4JwY0QIfl1evIn1gAAA"
+ },
+ "temple-prasad-day": {
+  "src": "/images/temple-prasad-day.webp",
+  "w": 960,
+  "h": 1280,
+  "cat": "temple",
+  "alt": "Devotees receiving prasad outside the mandir",
+  "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADQBACdASoPABQAPu1iqU2ppaOiMAgBMB2JbACdOUDZCLAAIL8H4PlFROsUDH2tIAD+tdS2cyx43iPshZSYDBJ34kh7jZFjWZm2vXc9HBrgnisel6+oUucSmr9FWg5T8KkUSM5e+cSFbDJN6qFMVbC+lictra2Pv6TjHKeoRFK8DOBQEE0AGd5fyUp9NducjpY+k0eRr5qVqvnEvTnaux88trcKsYzNIRc2ghAnpYAAAA=="
+ },
+ "brahma-darbar-toran": {
+  "src": "/images/brahma-darbar-toran.webp",
+  "w": 1280,
+  "h": 853,
+  "cat": "deity",
+  "alt": "Brahma darbar under a toran of fresh flowers",
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoUAA0APu1iqU2ppaQiMAgBMB2JbACw7BeQSGB3SYnHOXhPQAD+vCTLCkYbgdRUwti9rg+rp4G/bQixT17AK1+v8pe/aB4UH5z7IUrbHsbbrSDhoLp262JivUgpIfWruJqLYydmcMStxiv+samAAA=="
+ },
+ "guruji-white-portrait": {
+  "src": "/images/guruji-white-portrait.webp",
+  "w": 1024,
+  "h": 1536,
+  "cat": "guru",
+  "alt": "Pujya Guruji smiling in white",
+  "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JZACdAB6ugz5Gm6xhD56yQAD+8TxFdPiaLci3DRu2uVF9jLKthnyzwYTOvnrsWEeElLvSwLDAHqeetl03/ad2VuK71D3SpcP8sYB+fO2tfnDx81ehafYeHqqoVWi3AQAAAA=="
+ },
+ "guruji-gurumaa-stage": {
+  "src": "/images/guruji-gurumaa-stage.webp",
+  "w": 703,
+  "h": 575,
+  "cat": "guru",
+  "alt": "Guruji and Guru Maa seated for satsang",
+  "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBACdASoUABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlvRjEkpPyqJPOzEYPQAAA/u7jCoFq6w/SJPTxe4rKj/gT2BLrxKXnpQWWfkOexWeMZsK25Xu3mZfyBdHUw8DXTqn5W8rgHjk4zaJ0d0GIVHXINboO/LZcI+7c4a+q7Vm9pjO0qYghrMNg/RYUrnZBwBrgz8bn145S/zRIHuycM+aJwxAO9QyGAAA="
+ },
+ "guruji-gurumaa-mandap": {
+  "src": "/images/guruji-gurumaa-mandap.webp",
+  "w": 1600,
+  "h": 1066,
+  "cat": "guru",
+  "alt": "Guru Maa and Guruji resting in the mandap",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoADK+oX7jwxtd7FiAAA/oOCw96SAjK27g/H2jQ0wFvmO2CdJ+K5gE83PCpXTzEmgsjA92hbWMnqfLol+YnmAQdG1fWSL62uksTgO+O0JdK4JcCPuFEvsCqQF1/AYxd3+W9ATuIUAAA="
+ },
+ "guruji-gurumaa-mandap-2": {
+  "src": "/images/guruji-gurumaa-mandap-2.webp",
+  "w": 1600,
+  "h": 1066,
+  "cat": "guru",
+  "alt": "Guruji and Guru Maa in the mandap",
+  "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoR3ACVSPP8PZUIwAP5BLlUhXv2f8eB7OTMj6jx8pvL0s+Hgy38rtuKK70Bz0JwSGSVAyoZIG+6M0eNVCGDxOOowove+vWSHI5HnU8vM0EtiHjBmyNnQ4ouSFo9owT5hny8tL546GIIMYF7XiAAAAA=="
+ },
+ "guruji-pravachan-hand": {
+  "src": "/images/guruji-pravachan-hand.webp",
+  "w": 1399,
+  "h": 1065,
+  "cat": "guru",
+  "alt": "Guruji explaining during pravachan",
+  "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoUAA8APu1iqU2ppaOiMAgBMB2JbACdMoR4PzKCyf7Wnw8IQLcdAAD+3fwAz+z2U0Vxbn6ArWiV5lcZ81+RoiSh1ECbxlM7jGaJl4229pT/yJ8NgpbyUwoT8lY+QYIuOSvVsV/UViQ0SPwdx40LOhf8BWp2Xl1ELSIsEY3XJpwqOwHvlIwq4C7yeJpaX3TRTH1cYLPR5rANRr12zqO3WJYgAAA="
+ },
+ "guruji-garland-dhyan": {
+  "src": "/images/guruji-garland-dhyan.webp",
+  "w": 1280,
+  "h": 853,
+  "cat": "guru",
+  "alt": "Guruji garlanded, in a moment of dhyan",
+  "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoR3JoM4ABIifqiugcu1Y1vCAAD8opDY8McGRJrE39eHcMlk4S4BuEgTeUTTQ7az2AlWE+A1SDRzA8zv6ruCVmvo3piiFSLVH/yt9zQPj/8oRanufsq9kO/ctK+CHPwWNqop6wNDtOqpf/AVL/wcmfwb9zTRvxrHbuUI5TP5+jTlM6Q5lL0LgxwUQAA="
+ },
+ "guruji-close": {
+  "src": "/images/guruji-close.webp",
+  "w": 1280,
+  "h": 853,
+  "cat": "guru",
+  "alt": "Pujya Guruji",
+  "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoR3ACR0Wghyfqn48AD7He8Vzkq7N4ESczJMaY23pNBeqWB2EmMqD75o2WycvEv+JSdeYkPqXpOrC0RCPwjNfWT7dmT0faOHI9ZdP/heHfLvkKToxzZc1CWGqm1PYZUhNyQjAegiPa3AAA=="
+ },
+ "guruji-temple-hall": {
+  "src": "/images/guruji-temple-hall.webp",
+  "w": 1560,
+  "h": 1040,
+  "cat": "guru",
+  "alt": "Guruji blessing devotees in the temple hall",
+  "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAADwAwCdASoUAA0APu1iqU2ppaQiMAgBMB2JQAB8ujWlhltfzIGsPlUAAP6sRNjK24UPJH+yY1pNtNTbIpn94br5b05MWf84BKJkIOB2tzfzfFQBPQJAmk91vu831uZO03vAAG7gseeiZ+ZYfTmzGEIrYaPxYIu81Vat+KWRJWKU8C4GQTMLEo88HgEdpgMcVByoAA=="
+ },
+ "guruji-laughing": {
+  "src": "/images/guruji-laughing.webp",
+  "w": 1599,
+  "h": 1066,
+  "cat": "guru",
+  "alt": "Guruji laughing with devotees",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoMYADgmP4iUlLEFh1mYAP5KtM+6W2sT2e1rXmyrJThl10MAzonjhduX/MKQ+Ezajx5aZaZthT17NoUuq32Qva0vMky1g+9EcI/uttwRZbrJzObx8dXcT0DpZ2HIVgv/5fiexhJwAAA="
+ },
+ "guruji-mic": {
+  "src": "/images/guruji-mic.webp",
+  "w": 1040,
+  "h": 1560,
+  "cat": "guru",
+  "alt": "Guruji leading the satsang",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAwCdASoNABQAPu1iqU2ppaOiMAgBMB2JYgCdABttIw3XodEob4AA/u9ccNg5pS6Vj1t+v07F8lDPXOKcILOCc0R9NG05sJLy+/pco7yTGoef3iC31b+3vbfCaMIxYPeQ9PQohZPbvq9gQZNlgF2wUs8RyRLyWVY+sqz5l15L506AAAA="
+ },
+ "guruji-pink-garland": {
+  "src": "/images/guruji-pink-garland.webp",
+  "w": 960,
+  "h": 1440,
+  "cat": "guru",
+  "alt": "Guruji adorned with pink and white garlands",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASoNABQAPu1iqU2ppaOiMAgBMB2JbACdMoRwJoGIwAPHb/1e95T9T7AA/t7sa2OCPKo3dDScARR4C+iwPhkTgUqIUr/HaRcrJyNQgoSsgffVyhiQNdHFbAARlRA7OBZ9fZcpaC/XvxiYl/qpLHcCRFrVAvaSCMXP0yv1QVeR5APHoYUD0hNRZJMpnut2RSKvYAA="
+ },
+ "guruji-walk": {
+  "src": "/images/guruji-walk.webp",
+  "w": 1080,
+  "h": 1344,
+  "cat": "guru",
+  "alt": "Guruji walking to the mandir",
+  "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JYwCdACP/ZfFyp5m+0AD+6yWlcCgq94UVfwyXoUgU+ef0pxqPbI8AyWEu+jBH4v/O2RS7p2aqXBxvrgIdx/983dkoS9ghA63kZvG0FZGX9ZgXYWyUhyoMAg6catzq4HOwAA=="
+ },
+ "gurumaa-guruji-garlands": {
+  "src": "/images/gurumaa-guruji-garlands.webp",
+  "w": 1080,
+  "h": 814,
+  "cat": "guru",
+  "alt": "Guru Maa and Guruji garlanded on Kurdi Wale Maharaj ji's janmotsav",
+  "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoUAA8APu1iqU2ppaOiMAgBMB2JbACdMoACweenkMw9tO2GDm4GAAD+1eEDixdZwhMjcaUbQf7dIHEJcf8WX+/lL8hL43T6yvjGcBU0Na4t1Wv4Vd62S551Kpt0Bn4BUNnv0bPLlQaaHGG+ZBZoOHl0PepnvHTFt4zsjPaepuPODcT8O/7HM7xITUaRkGoT4OAeHzOESt3UALIAAAA="
+ },
+ "guruji-garden-garland": {
+  "src": "/images/guruji-garden-garland.webp",
+  "w": 1080,
+  "h": 720,
+  "cat": "guru",
+  "alt": "Guruji garlanded in the garden",
+  "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoUAA0APu1iqU2ppaOiMAgBMB2JbACdMoMpA+gCBgCltMZOqnJmIAD+ZVYZjaP6trl6QIs6uHQyigMTFWJSYoM+Ve8lDPUy7S/SsAyYE8+FCK9TrOpsC/MgnDK6G7tCbET/5WC2d1EaBi2dwHmVzdExIHkLesZzGls0sDcvyQbmGABC+/V6pDJ0bHOmXvInPHAauT9M17O9Fcb57PgAAA=="
+ }
+}
