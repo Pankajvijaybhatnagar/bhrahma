@@ -28,7 +28,7 @@ export default function Events() {
           <span className="eyebrow">Satsang · <span className="deva">सत्संग</span></span>
           <h2>Every gathering is a blessing</h2>
           <p className="serif" style={{ fontSize: "1.3rem", color: "#f0d4d4" }}>Join Guruji and the temple family for satsang, katha and kirtan. No registration is needed — simply come with an open heart.</p>
-          <Link href="/guruji" className="btn btn-gold" style={{ marginTop: 14 }}>Meet Guruji & Guru Maa</Link>
+          <Link href="/guruji-maharaj" className="btn btn-gold" style={{ marginTop: 14 }}>Meet Guruji & Guru Maa</Link>
         </div>
       </section>
     </>

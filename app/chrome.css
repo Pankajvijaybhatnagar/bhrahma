@@ -112,3 +112,49 @@
   .topbar .ticker > span:not(.deva) { display: none; }
   .topbar .ticker { justify-content: center; width: 100%; }
 }
+
+/* ─────────── Main menu: the nine pages of the original site ─────────── */
+.header .container, .topbar .container { max-width: 1480px; }
+.nav-link { padding: 10px 9px; font-size: 0.74rem; letter-spacing: 0.1em; white-space: nowrap; }
+.header-cta .btn-outline { display: none; }
+.dropdown.wide { min-width: 580px; display: grid; grid-template-columns: 1fr 1fr; gap: 2px; }
+.nav-item:last-child .dropdown, .nav-item:nth-last-child(2) .dropdown.wide { left: auto; right: -40px; transform: translate(0, 10px); }
+.nav-item:nth-last-child(2):hover .dropdown.wide, .nav-item:nth-last-child(2):focus-within .dropdown.wide { transform: none; }
+.nav-item:nth-last-child(2) .dropdown.wide::after { left: auto; right: 70px; }
+@media (max-width: 1420px) {
+  .nav-link { padding: 10px 7px; font-size: 0.7rem; letter-spacing: 0.07em; }
+  .brand-text strong { font-size: 1.1rem; letter-spacing: 0.24em; }
+}
+@media (max-width: 1300px) {
+  .nav, .header-cta .btn { display: none; }
+  .menu-btn { display: inline-flex; }
+}
+
+/* ─────────── Guruji Maharaj hero: portrait framed like the home-page logo ─────────── */
+.guru-hero .crumbs { justify-content: flex-start; }
+.guru-hero-title { font-size: clamp(2rem, 4.2vw, 3.4rem); line-height: 1.12; }
+.guru-hero-title .deva { display: block; font-size: 0.62em; color: var(--gold-bright); letter-spacing: 0; margin-bottom: 10px; }
+.hero-visual.guru-visual .halo { inset: 8%; }
+.hero-visual.guru-visual .logo-wrap {
+  inset: 13%;
+  box-shadow: 0 0 0 5px var(--gold-bright), 0 0 0 14px rgba(250, 240, 190, 0.18), 0 30px 80px -10px rgba(0, 0, 0, 0.6), 0 0 120px rgba(225, 85, 139, 0.55);
+}
+.hero-visual.guru-visual .logo-wrap img { transform: none; }
+.guru-visual-name {
+  position: absolute; left: 50%; bottom: 4%; transform: translateX(-50%); z-index: 3; white-space: nowrap;
+  padding: 8px 22px; border-radius: 999px; font-size: 1.05rem; color: var(--crimson-deep);
+  background: linear-gradient(180deg, var(--gold-cream), var(--gold-bright)); box-shadow: 0 10px 30px -8px rgba(0, 0, 0, 0.5);
+}
+@media (max-width: 980px) {
+  .guru-hero .crumbs { justify-content: center; }
+  .guru-hero .hero-visual { order: -1 !important; max-width: 360px; }
+}
+@media (max-width: 680px) { .guru-hero .hero-visual { max-width: 290px; } }
+.guru-hero .crumbs { display: flex; }
+.guru-hero .hero-grid > * { min-width: 0; }
+@media (max-width: 680px) {
+  .guru-hero-title { font-size: clamp(1.6rem, 8vw, 2.1rem); }
+  .guru-hero .hero-badges { gap: 14px 20px; justify-content: center; }
+  .guru-hero .hero-badges strong { font-size: 1.1rem; }
+  .guru-hero .btn-row { flex-wrap: wrap; justify-content: center; }
+}

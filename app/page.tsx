@@ -16,10 +16,10 @@ import { Diya, FilledLotus, Icon, Kalash, Lotus, Mandala, OmSymbol, Skyline, Swa
 export const revalidate = 3600;
 
 const pillars: { img: PhotoId; title: string; text: string; href: string }[] = [
-  { img: "sanctum-bell", title: "Daily Aarti", text: "Five aartis from Mangala at dawn to Shayan at night, each with Vedic chanting and the sound of conch and bell.", href: "/darshan" },
-  { img: "kalash-yatra", title: "Annadanam", text: "Sattvic prasadam is served every single day to pilgrims, sadhus and anyone who is hungry — free of charge.", href: "/annadanam" },
-  { img: "pravachan-stage", title: "Vidya & Satsang", text: "Weekly satsang with Guruji, Gita study and youth camps that keep the wisdom of the Vedas alive.", href: "/events" },
-  { img: "havan-1", title: "Havan & Seva", text: "Devotees join Vedic havans and serve in the kitchen and at festivals. Every pair of hands is an offering.", href: "/volunteer" },
+  { img: "brahma-white-murti", title: "Brahma Ji", text: "The power that creates everything in this world — from wind to water, from soil to mountains, from man to minerals.", href: "/brahmaji" },
+  { img: "shobha-yatra", title: "Rath Yatra", text: "Every Kartik Purnima, thousands of hands pull the only chariot in the world carrying Brahma ji with Mata Brahmani and Mata Gayatri.", href: "/rath-yatra" },
+  { img: "temple-signboard", title: "Onkar Ashram", text: "Founded on 1 October 2001 — the only temple where Lord Brahma is worshipped with Mata Brahmani and Gayatri Mata.", href: "/onkar-ashram" },
+  { img: "havan-1", title: "Hawan Yagya", text: "The Onkar Mahayagya — Lord Brahma himself performed it before beginning the creation of the earth.", href: "/hawan-yagya" },
 ];
 
 const symbols = [
@@ -31,7 +31,7 @@ const symbols = [
 
 const ribbon: PhotoId[] = [
   "temple-night-gate", "brahma-golden", "sanctum-arch", "mata-rani", "shobha-yatra-2", "ganesh-shrine", "temple-day-shikhara",
-  "radha-krishna", "parikrama-mirror", "nandi-pair", "fireworks-2", "saraswati-utsav-murti", "carved-pillars", "guru-parivar", "temple-night-tower", "temple-signboard",
+  "radha-krishna", "parikrama-mirror", "nandi-pair", "fireworks-2", "utsav-murtis", "carved-pillars", "guru-parivar", "temple-night-tower", "temple-signboard",
 ];
 
 export default function Home() {
@@ -62,11 +62,11 @@ export default function Home() {
               </h1>
               <p className="shloka">{site.sanskritTagline}</p>
               <p className="lead">
-                Step into the sacred presence of Lord Brahma — the four-faced Creator, seated upon the lotus and bearer of the Vedas. Come for darshan, stay for the peace.
+                Welcome to Brahma Mandir. Just recite Brahma and experience Brahma.
               </p>
               <div className="btn-row">
-                <Link href="/darshan" className="btn btn-gold">Darshan Timings</Link>
-                <Link href="/sevas" className="btn btn-ghost-light btn-outline">Book a Puja</Link>
+                <Link href="/brahmaji" className="btn btn-gold">Know Brahma Ji</Link>
+                <Link href="/darshan" className="btn btn-ghost-light btn-outline">Darshan Timings</Link>
               </div>
               <div className="hero-badges">
                 <div><strong>5:00 AM</strong>Mangala Aarti</div>
@@ -118,22 +118,22 @@ export default function Home() {
             <div className="photo-badge" style={{ left: -20, top: 40 }}><span><b>ॐ</b>SRISHTI<br />KARTA</span></div>
           </div>
           <div className="reveal d1">
-            <span className="eyebrow">Swagatam · <span className="deva">स्वागतम्</span></span>
-            <h2>A sanctuary for the Creator of all worlds</h2>
+            <span className="eyebrow">Introduction · <span className="deva">परिचय</span></span>
+            <h2>Welcome to Brahma Mandir</h2>
             <p className="lead">
-              Temples to Lord Brahma are rare in Bharat, which makes every one of them precious. Brahma Mandir is a living home of worship, where the first light of each morning is offered to the one who brought the universe into being.
+              Life is an eternal journey, and we see it as we are directed to see it — a fact which cannot be denied, neither spiritually nor scientifically. We see things from one perspective, and other creatures see them from another.
             </p>
             <p className="muted">
-              Here the four-faced Lord sits with Mother Saraswati and Mother Savitri, lamps burn without pause, and every visitor — pilgrim, student, family or seeker — is received as a guest of the Lord under the loving guidance of Pujya Guruji and Guru Maa.
+              Similarly, we see God — the creator — in many forms. But is Brahma, the creator, so easy to understand or talk about? Brahma is the creator of this world that we see and praise. Even the Lords who manifested themselves were always found praying to Brahma; they included His name in their preaching, hymns, verses and sayings. The Hindu spiritual world revolves around Brahma — Brahma-muhurat, Brahmalok, Brahmaand, Brahmayuga and Brahmanaad.
             </p>
             <ul className="feature-list">
-              <li><Icon.Check /> Daily Vedic abhishek and five aartis</li>
-              <li><Icon.Check /> Free prasadam for every visitor, every day</li>
-              <li><Icon.Check /> Pujas performed in your name, wherever you are</li>
+              <li><Icon.Check /> The only temple where Lord Brahma is worshipped with Mata Brahmani and Gayatri Mata</li>
+              <li><Icon.Check /> Foundation laid on 1 October 2001 at Kurukshetra</li>
+              <li><Icon.Check /> Brahma Rath Yatra every Kartik Purnima since 2002</li>
             </ul>
             <div className="btn-row">
               <Link href="/about" className="btn btn-primary">Our Story</Link>
-              <Link href="/lord-brahma" className="link-arrow" style={{ padding: "14px 10px" }}>Know Lord Brahma <span>→</span></Link>
+              <Link href="/onkar-ashram" className="link-arrow" style={{ padding: "14px 10px" }}>Onkar Ashram <span>→</span></Link>
             </div>
           </div>
         </div>
@@ -150,7 +150,7 @@ export default function Home() {
               <DarshanStatus />
               <figure className="photo-card reveal" style={{ aspectRatio: "16 / 10" }}>
                 <Photo id="brahma-trimurti-darbar" fill />
-                <figcaption>Shri Brahma darbar with Maa Saraswati & Maa Savitri</figcaption>
+                <figcaption>Shri Brahma darbar with Mata Brahmani & Mata Gayatri</figcaption>
               </figure>
             </div>
             <div className="reveal d1">
@@ -178,8 +178,8 @@ export default function Home() {
       {/* ───── Pillars ───── */}
       <section className="section">
         <div className="container">
-          <SectionHead eyebrow="Our Seva" title="The Four Pillars of the Mandir">
-            Worship, nourishment, learning and service — the temple exists to keep these four lamps burning for every generation.
+          <SectionHead eyebrow="Brahma Mandir · ब्रह्मा मंदिर" title="Just recite Brahma and experience Brahma">
+            Brahma Ji, the Rath Yatra, the Onkar Ashram and the Hawan Yagya — the four pillars of Bhagwan Shri Brahma Mandir, Kurukshetra.
           </SectionHead>
           <div className="grid grid-4">
             {pillars.map((p, i) => (
@@ -229,7 +229,7 @@ export default function Home() {
               { id: "ganesh-shrine", caption: "Shri Ganesh" },
               { id: "shivling", caption: "Mahadev" },
               { id: "radha-krishna", span: "w2", caption: "Radha-Krishna in the flower jhula", position: "50% 40%" },
-              { id: "saraswati-utsav-murti", caption: "Maa Saraswati" },
+              { id: "saraswati-utsav-murti", caption: "Mata Brahmani" },
               { id: "nandi-pair", caption: "Nandi Maharaj" },
             ]}
           />
@@ -243,31 +243,31 @@ export default function Home() {
       <section className="section bg-dark">
         <div className="container split">
           <div className="reveal">
-            <span className="eyebrow">Guru Parivar · <span className="deva">गुरु परिवार</span></span>
-            <h2>Under the blessings of Guruji, Guru Maa & Swami ji</h2>
+            <span className="eyebrow">Our Guru Ji Maharaj · <span className="deva">गुरुजी महाराज</span></span>
+            <h2>About Our Guru Ji</h2>
             <p className="lead" style={{ color: "#ecd0d0" }}>
-              The mandir is guided by the love and tapasya of Pujya Guruji and Guru Maa, and carried forward by their son, Swami Sandeep Onkar ji. Their satsang, seva and simple wisdom have drawn thousands of families to the path of bhakti.
+              The Guru Ji — Sri Shaktidev ji Maharaj from Kurri village — is a heavenly soul in a human form, from the lineage of Lord Brahma.
             </p>
             <p style={{ color: "#e3c6c6" }}>
-              Their pravachans, the annual shobha yatra and the countless havans held in their presence make the temple a living home of the Guru parampara.
+              Rishi Durwasa ji Maharaj was the son of hermit Sri Atri ji Maharaj, and Sri Atri ji Maharaj was one of the children of Lord Brahma. Hermit Sri Durwasa ji was himself the avatar of Lord Shiva. The mandir is blessed by Guru Maa, Sri Sri 1008 Satguru Santosh Onkar ji Maharaj, and carried forward by Swami Sri Sandeep Onkar ji Maharaj.
             </p>
             <p className="deva" style={{ color: "var(--gold-bright)", fontSize: "1.3rem", lineHeight: 1.8 }}>
               गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः ।<br />गुरुः साक्षात् परब्रह्म तस्मै श्रीगुरवे नमः ॥
             </p>
-            <Link href="/guruji" className="btn btn-gold" style={{ marginTop: 10 }}>Meet the Guru Parivar</Link>
+            <Link href="/guruji-maharaj" className="btn btn-gold" style={{ marginTop: 10 }}>More About Guru Ji</Link>
           </div>
           <div className="guru-duo reveal d1">
-            <Link href="/guruji" className="guru-card">
+            <Link href="/guruji-maharaj" className="guru-card">
               <Photo id="guruji-garland" fill sizes="(max-width: 680px) 100vw, 25vw" position="50% 25%" />
-              <div className="gc-body"><h3>Pujya Guruji</h3><div className="deva">पूज्य गुरुजी</div></div>
+              <div className="gc-body"><h3>Sri Shaktidev ji Maharaj</h3><div className="deva">श्री शक्तिदेव जी महाराज</div></div>
             </Link>
-            <Link href="/guruji" className="guru-card" style={{ marginTop: 60 }}>
+            <Link href="/guruji-maharaj" className="guru-card" style={{ marginTop: 60 }}>
               <Photo id="gurumaa-blessing" fill sizes="(max-width: 680px) 100vw, 25vw" position="50% 30%" />
-              <div className="gc-body"><h3>Pujya Guru Maa</h3><div className="deva">पूज्य गुरु माँ</div></div>
+              <div className="gc-body"><h3>Santosh Onkar ji Maharaj</h3><div className="deva">श्री संतोष ओंकार जी महाराज</div></div>
             </Link>
-            <Link href="/guruji#swami-ji" className="guru-card" style={{ gridColumn: "1 / -1", aspectRatio: "4 / 3", marginTop: -30 }}>
+            <Link href="/guruji-maharaj#swami-ji" className="guru-card" style={{ gridColumn: "1 / -1", aspectRatio: "4 / 3", marginTop: -30 }}>
               <Photo id="swami-sandeep-onkar" fill sizes="(max-width: 680px) 100vw, 45vw" position="50% 12%" />
-              <div className="gc-body"><span className="gc-role">Son of Guruji & Guru Maa</span><h3>Swami Sandeep Onkar ji</h3><div className="deva">स्वामी संदीप ओंकार जी</div></div>
+              <div className="gc-body"><span className="gc-role">Son of Guruji & Guru Maa</span><h3>Swami Sri Sandeep Onkar ji Maharaj</h3><div className="deva">स्वामी संदीप ओंकार जी</div></div>
             </Link>
           </div>
         </div>
@@ -291,7 +291,7 @@ export default function Home() {
             ))}
           </div>
           <div className="center" style={{ marginTop: 30 }}>
-            <Link href="/lord-brahma" className="btn btn-outline">Explore the Iconography</Link>
+            <Link href="/brahmaji" className="btn btn-outline">Explore the Iconography</Link>
           </div>
         </div>
       </section>

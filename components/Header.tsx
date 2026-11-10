@@ -64,7 +64,7 @@ export default function Header() {
                     {g.label}
                     <Icon.Chevron />
                   </button>
-                  <div className="dropdown">
+                  <div className={`dropdown ${g.children.length > 6 ? "wide" : ""}`}>
                     {g.children.map((c) => (
                       <Link href={c.href} key={c.href}>
                         <Lotus className="dot" />
@@ -99,7 +99,10 @@ export default function Header() {
 
       <div className={`mobile-nav ${open ? "open" : ""}`} aria-hidden={!open}>
         <div className="container">
-          <Link href="/">Home</Link>
+          <h5>Brahma Mandir</h5>
+          {nav.filter((g) => !g.children).map((g) => (
+            <Link href={g.href!} key={g.href}>{g.label}</Link>
+          ))}
           {nav.filter((g) => g.children).map((g) => (
             <div key={g.label}>
               <h5>{g.label}</h5>
@@ -108,8 +111,6 @@ export default function Header() {
               ))}
             </div>
           ))}
-          <h5>Reach us</h5>
-          <Link href="/contact">Contact</Link>
           <Link href="/donate" className="btn btn-primary">Donate to the Temple</Link>
         </div>
       </div>

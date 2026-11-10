@@ -11,7 +11,7 @@ export const metadata: Metadata = { title: "Shrines · Devi-Devta" };
 
 const shrines: { img: PhotoId; t: string; h: string; d: string; pos?: string }[] = [
   { img: "brahma-golden", t: "Shri Brahma ji", h: "श्री ब्रह्मा जी", d: "The golden four-faced murti, garlanded in marigold and holding the Vedas, the akshamala and the kamandalu." },
-  { img: "saraswati-utsav-murti", t: "Maa Saraswati", h: "माँ सरस्वती", d: "The Goddess of learning upon her swan, worshipped by students before exams and on Vasant Panchami." },
+  { img: "saraswati-utsav-murti", t: "Mata Brahmani", h: "माता ब्रह्माणी", d: "The Shakti of Lord Brahma upon her swan. The temple was built so that God Brahma and Goddess Brahmani could meet at one place." },
   { img: "mata-rani", t: "Mata Rani", h: "माता रानी", d: "The Divine Mother in red chunri and full shringar, showering protection on every devotee." },
   { img: "mata-durga", t: "Maa Durga", h: "माँ दुर्गा", d: "Worshipped with special fervour during both Navratris, with kanya pujan and jagran." },
   { img: "ganesh-shrine", t: "Shri Ganesh", h: "श्री गणेश", d: "Vighnaharta, remover of obstacles, seated in a shrine of shimmering mirror-work." },
@@ -32,12 +32,12 @@ export default function Shrines() {
       <section className="section">
         <div className="container split">
           <div className="reveal">
-            <FramedPhoto id="brahma-trimurti-darbar" ratio="4 / 3" caption="Garbhagriha · Shri Brahma ji with Maa Saraswati & Maa Savitri" priority />
+            <FramedPhoto id="brahma-trimurti-darbar" ratio="4 / 3" caption="Garbhagriha · Shri Brahma ji with Mata Brahmani & Mata Gayatri" priority />
           </div>
           <div className="reveal d1">
             <span className="eyebrow">Garbhagriha · <span className="deva">गर्भगृह</span></span>
             <h2>The main sanctum</h2>
-            <p className="lead">At the heart of the temple sits the white marble murti of four-faced Lord Brahma, flanked by Mother Saraswati and Mother Savitri.</p>
+            <p className="lead">At the heart of the temple sits the white marble murti of four-faced Lord Brahma, flanked by Mata Brahmani and Mata Gayatri — the only temple where the three are worshipped together.</p>
             <p className="muted">The sanctum is adorned with fresh flowers every morning after abhishek. On festivals, the arch is covered in garlands of marigold and rose, and the Lord is dressed in new vastra and jewellery.</p>
             <Link href="/darshan" className="btn btn-primary" style={{ marginTop: 10 }}>Darshan Timings</Link>
           </div>
@@ -90,7 +90,7 @@ export default function Shrines() {
         <div className="container narrow reveal">
           <span className="eyebrow">Utsav Murtis</span>
           <h2>The Lord goes out to meet His devotees</h2>
-          <p className="serif" style={{ fontSize: "1.3rem", color: "#f0d4d4" }}>On festival days the brass utsav murtis of Lord Brahma, Mother Saraswati and the Devi are dressed in yellow and carried through the town in the shobha yatra.</p>
+          <p className="serif" style={{ fontSize: "1.3rem", color: "#f0d4d4" }}>On festival days the brass utsav murtis of Lord Brahma, Mata Brahmani and Mata Gayatri are dressed in yellow and carried through the town in the shobha yatra.</p>
           <Link href="/festivals" className="btn btn-gold" style={{ marginTop: 14 }}>Festivals of the Year</Link>
         </div>
       </section>

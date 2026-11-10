@@ -11,11 +11,11 @@ const cats: { id: "all" | "brahma" | PhotoCat; label: string }[] = [
   { id: "deity", label: "Devi-Devta" },
   { id: "temple", label: "The Mandir" },
   { id: "night", label: "Deepotsav Nights" },
-  { id: "utsav", label: "Utsav & Yatra" },
-  { id: "guru", label: "Guruji & Guru Maa" },
-  { id: "seva", label: "Havan & Seva" },
+  { id: "utsav", label: "Rath Yatra & Utsav" },
+  { id: "guru", label: "Guruji Maharaj" },
+  { id: "seva", label: "Hawan Yagya" },
 ];
-const catLabel: Record<PhotoCat, string> = { deity: "Devi-Devta", temple: "The Mandir", night: "Deepotsav", utsav: "Utsav", guru: "Guruji", seva: "Havan & Seva" };
+const catLabel: Record<PhotoCat, string> = { deity: "Devi-Devta", temple: "The Mandir", night: "Deepotsav", utsav: "Rath Yatra", guru: "Guruji Maharaj", seva: "Hawan Yagya" };
 const isBrahma = (id: string) => /^(brahma|saraswati|utsav-murtis)/.test(id);
 const order: PhotoCat[] = ["deity", "temple", "night", "utsav", "guru", "seva"];
 const nearDuplicates = new Set(["decorated-shrine-2", "mirror-shrine-6", "mirror-shrine-7"]);

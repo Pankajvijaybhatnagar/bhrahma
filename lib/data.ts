@@ -33,53 +33,43 @@ export const site = {
 export type NavItem = { label: string; href: string; desc?: string };
 export type NavGroup = { label: string; href?: string; children?: NavItem[] };
 
+// Main menu follows the original brahmamandir.com navigation:
+// Home · About Us · Brahmaji · Rath Yatra · Guruji Maharaj · Onkar Ashram · Hawan Yagya · Gallery · Contact Us
 export const nav: NavGroup[] = [
   { label: "Home", href: "/" },
   {
-    label: "Temple",
+    label: "About Us",
     children: [
       { label: "About the Mandir", href: "/about", desc: "Our story, vision & values" },
-      { label: "Lord Brahma", href: "/lord-brahma", desc: "The Creator & His symbolism" },
-      { label: "Guru Parivar", href: "/guruji", desc: "Guruji, Guru Maa & Swami ji" },
       { label: "Shrines · Devi-Devta", href: "/shrines", desc: "Every deity in the temple" },
       { label: "History & Legends", href: "/history", desc: "Puranic stories through the ages" },
       { label: "Architecture", href: "/architecture", desc: "The sacred geometry of the shrine" },
-    ],
-  },
-  {
-    label: "Darshan",
-    children: [
       { label: "Darshan & Aarti Timings", href: "/darshan", desc: "Daily schedule of worship" },
-      { label: "Live Darshan", href: "/live", desc: "Join the aarti from anywhere" },
       { label: "Plan Your Visit", href: "/visit", desc: "Reaching, dress code & etiquette" },
     ],
   },
+  { label: "Brahmaji", href: "/brahmaji" },
+  { label: "Rath Yatra", href: "/rath-yatra" },
+  { label: "Guruji Maharaj", href: "/guruji-maharaj" },
+  { label: "Onkar Ashram", href: "/onkar-ashram" },
+  { label: "Hawan Yagya", href: "/hawan-yagya" },
+  { label: "Gallery", href: "/gallery" },
   {
     label: "Seva",
     children: [
       { label: "Pujas & Sevas", href: "/sevas", desc: "Book a puja for your family" },
       { label: "Annadanam & Prasadam", href: "/annadanam", desc: "Feed the devotees" },
-      { label: "Volunteer", href: "/volunteer", desc: "Offer your time as seva" },
-      { label: "Donate", href: "/donate", desc: "Support the temple's work" },
-    ],
-  },
-  {
-    label: "Utsav",
-    children: [
       { label: "Festivals", href: "/festivals", desc: "Sacred celebrations of the year" },
       { label: "Events Calendar", href: "/events", desc: "Upcoming satsangs & kathas" },
-      { label: "Gallery", href: "/gallery", desc: "Moments of devotion" },
-    ],
-  },
-  {
-    label: "Wisdom",
-    children: [
+      { label: "Live Darshan", href: "/live", desc: "Join the aarti from anywhere" },
       { label: "Mantras & Stotras", href: "/mantras", desc: "Chant with meaning" },
       { label: "Articles", href: "/articles", desc: "Reflections on dharma" },
+      { label: "Volunteer", href: "/volunteer", desc: "Offer your time as seva" },
+      { label: "Donate", href: "/donate", desc: "Support the temple's work" },
       { label: "FAQ", href: "/faq", desc: "Answers for devotees" },
     ],
   },
-  { label: "Contact", href: "/contact" },
+  { label: "Contact Us", href: "/contact" },
 ];
 
 // ───────────────────────── Timings ─────────────────────────
@@ -145,7 +135,7 @@ export const events: TempleEvent[] = [
   { title: "Deepavali Maha Lakshmi Puja", date: "2026-11-08", time: "07:00 PM", place: "Main Sanctum", type: "Festival", desc: "Lakshmi–Ganesh puja followed by the lighting of the deepotsav." },
   { title: "Yuva Sanskar Shivir", date: "2026-11-15", time: "10:00 AM", place: "Vidya Bhawan", type: "Youth", desc: "A one-day camp for ages 12–25 on dharma, meditation and service." },
   { title: "Brahmotsav Maha Yagya", date: "2026-11-20", time: "08:00 AM", place: "Yagya Shala", type: "Yagya", desc: "Five days of havan culminating on Kartik Purnima." },
-  { title: "Kartik Purnima Rath Yatra", date: "2026-11-24", time: "05:00 PM", place: "From Temple to Sarovar", type: "Festival", desc: "Lord Brahma's chariot is pulled through the town by devotees." },
+  { title: "Kartik Purnima Rath Yatra", date: "2026-11-24", time: "05:00 PM", place: "Through Kurukshetra to the Brahma Mandir", type: "Festival", desc: "Thousands of devotees pull the chariot of Lord Brahma, Mata Brahmani and Mata Gayatri across the city, ending at the Brahma Mandir." },
   { title: "Gita Jayanti Akhand Path", date: "2026-12-20", time: "06:00 AM", place: "Main Mandapa", type: "Festival", desc: "All 18 chapters chanted continuously by devotees and students." },
 ];
 

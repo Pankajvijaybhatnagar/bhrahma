@@ -13,7 +13,7 @@ export default function Footer() {
         <div className="footer-top">
           <div className="f-brand">
             <Image src="/logo.png" alt="Brahma Mandir" width={192} height={192} />
-            <p>A sacred home of Lord Brahma, the Creator — where the Vedas are chanted, lamps are lit and every visitor is welcomed as a guest of God.</p>
+            <p>The only temple where Lord Brahma is worshipped along with Mata Brahmani and Gayatri Mata. Just recite Brahma and experience Brahma.</p>
             <div className="socials">
               {site.socials.map((s) => {
                 const Ico = SocialIcon[s.label];
@@ -27,16 +27,17 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4>The Temple</h4>
+            <h4>Brahma Mandir</h4>
             <ul>
-              <li><Link href="/about">About the Mandir</Link></li>
-              <li><Link href="/lord-brahma">Lord Brahma</Link></li>
-              <li><Link href="/guruji">Guruji & Guru Maa</Link></li>
-              <li><Link href="/shrines">Shrines · Devi-Devta</Link></li>
-              <li><Link href="/history">History & Legends</Link></li>
-              <li><Link href="/architecture">Architecture</Link></li>
+              <li><Link href="/">Home</Link></li>
+              <li><Link href="/about">About Us</Link></li>
+              <li><Link href="/brahmaji">Brahmaji</Link></li>
+              <li><Link href="/rath-yatra">Rath Yatra</Link></li>
+              <li><Link href="/guruji-maharaj">Guruji Maharaj</Link></li>
+              <li><Link href="/onkar-ashram">Onkar Ashram</Link></li>
+              <li><Link href="/hawan-yagya">Hawan Yagya</Link></li>
               <li><Link href="/gallery">Gallery</Link></li>
-              <li><Link href="/articles">Articles</Link></li>
+              <li><Link href="/contact">Contact Us</Link></li>
             </ul>
           </div>
 
@@ -50,6 +51,7 @@ export default function Footer() {
               <li><Link href="/events">Events</Link></li>
               <li><Link href="/mantras">Mantras</Link></li>
               <li><Link href="/volunteer">Volunteer</Link></li>
+              <li><Link href="/shrines">Shrines</Link></li>
               <li><Link href="/faq">FAQ</Link></li>
             </ul>
           </div>

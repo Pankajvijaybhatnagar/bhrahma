@@ -88,17 +88,17 @@ export default function About() {
       <section className="section bg-sand">
         <div className="container">
           <SectionHead eyebrow="Guru Kripa" title="Guided by Guruji & Guru Maa">
-            The temple is blessed by Pujya Guruji and Guru Maa, and cared for by priests, scholars and volunteers who have dedicated their lives to seva.
+            The temple is blessed by Satgurudev Swami Sri Shaktidev ji Maharaj and Guru Maa Sri Santosh Onkar ji Maharaj, and cared for by priests, scholars and volunteers who have dedicated their lives to seva.
           </SectionHead>
           <div className="split" style={{ alignItems: "start" }}>
             <div className="guru-duo reveal">
-              <Link href="/guruji" className="guru-card">
+              <Link href="/guruji-maharaj" className="guru-card">
                 <Photo id="guruji-garland" fill sizes="(max-width: 680px) 100vw, 25vw" position="50% 25%" />
-                <div className="gc-body"><h3>Pujya Guruji</h3><div className="deva">पूज्य गुरुजी</div></div>
+                <div className="gc-body"><h3>Sri Shaktidev ji Maharaj</h3><div className="deva">श्री शक्तिदेव जी महाराज</div></div>
               </Link>
-              <Link href="/guruji" className="guru-card" style={{ marginTop: 50 }}>
+              <Link href="/guruji-maharaj" className="guru-card" style={{ marginTop: 50 }}>
                 <Photo id="gurumaa-blessing" fill sizes="(max-width: 680px) 100vw, 25vw" position="50% 30%" />
-                <div className="gc-body"><h3>Pujya Guru Maa</h3><div className="deva">पूज्य गुरु माँ</div></div>
+                <div className="gc-body"><h3>Santosh Onkar ji Maharaj</h3><div className="deva">श्री संतोष ओंकार जी महाराज</div></div>
               </Link>
             </div>
             <div className="grid grid-2 reveal d1" style={{ gap: 18 }}>
