@@ -15,7 +15,7 @@ const garamond = EB_Garamond({ subsets: ["latin"], weight: ["400", "500"], varia
 const deva = Tiro_Devanagari_Sanskrit({ subsets: ["devanagari", "latin"], weight: "400", variable: "--f-deva", display: "swap" });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.brahmamandir.org"),
+  metadataBase: new URL("https://brahmamandir.com"),
   title: { default: "जय गुरुदेव · जय ओंकार — Bhagwan Shri Brahma Mandir, Kurukshetra", template: "%s · Brahma Mandir" },
   description:
     "Bhagwan Shri Brahma Mandir, Kurukshetra — a sacred temple of Lord Brahma, the Creator, blessed by Pujya Guruji, Guru Maa and Swami Sandeep Onkar ji. Darshan timings, aarti, pujas & sevas, festivals, live darshan, annadanam and donations.",

@@ -12,16 +12,15 @@ export const site = {
   jaikara: "जय गुरुदेव · जय ओंकार",
   tagline: "Abode of the Creator · Seat of the Vedas",
   sanskritTagline: "ॐ वेदात्मनाय विद्महे हिरण्यगर्भाय धीमहि । तन्नो ब्रह्मा प्रचोदयात् ॥",
-  // TODO: replace with the temple's real details
-  // TODO: add the street address
-  address: "Bhagwan Shri Brahma Mandir",
-  city: "Kurukshetra, Haryana, India",
-  phone: "+91 00000 00000",
-  phoneHref: "tel:+910000000000",
-  whatsapp: "+91 00000 00000",
-  email: "info@brahmamandir.org",
+  address: "Braham Mandir, Near Brahma Mandir Chowk, Amin Road",
+  city: "Kurukshetra, Haryana, IN",
+  phone: "+91 98121 67057",
+  phoneHref: "tel:+919812167057",
+  // TODO: confirm the WhatsApp number (using the main phone for now)
+  whatsapp: "+91 98121 67057",
+  email: "info@brahmamandir.com",
   mapEmbed:
-    "https://www.google.com/maps?q=Brahma+Sarovar+Kurukshetra&output=embed",
+    "https://www.google.com/maps?q=Brahma+Mandir+Chowk,+Amin+Road,+Kurukshetra,+Haryana&output=embed",
   socials: [
     { label: "YouTube", href: "#" },
     { label: "Instagram", href: "#" },
